@@ -1,0 +1,3872 @@
+{
+    "none": {
+        "category_name": "UNKNOWN",
+        "height": 0,
+        "weight": 0,
+        "description": "gDummyPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "bulbasaur": {
+        "category_name": "SEED",
+        "height": 7,
+        "weight": 69,
+        "description": "gBulbasaurPokedexText",
+        "pokemon_scale": 356,
+        "pokemon_offset": 17,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "ivysaur": {
+        "category_name": "SEED",
+        "height": 10,
+        "weight": 130,
+        "description": "gIvysaurPokedexText",
+        "pokemon_scale": 335,
+        "pokemon_offset": 13,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "venusaur": {
+        "category_name": "SEED",
+        "height": 20,
+        "weight": 1000,
+        "description": "gVenusaurPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 388,
+        "trainer_offset": 6
+    },
+    "charmander": {
+        "category_name": "LIZARD",
+        "height": 6,
+        "weight": 85,
+        "description": "gCharmanderPokedexText",
+        "pokemon_scale": 444,
+        "pokemon_offset": 18,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "charmeleon": {
+        "category_name": "FLAME",
+        "height": 11,
+        "weight": 190,
+        "description": "gCharmeleonPokedexText",
+        "pokemon_scale": 302,
+        "pokemon_offset": 9,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "charizard": {
+        "category_name": "FLAME",
+        "height": 17,
+        "weight": 905,
+        "description": "gCharizardPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 1,
+        "trainer_scale": 302,
+        "trainer_offset": 3
+    },
+    "squirtle": {
+        "category_name": "TINY TURTLE",
+        "height": 5,
+        "weight": 90,
+        "description": "gSquirtlePokedexText",
+        "pokemon_scale": 412,
+        "pokemon_offset": 18,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "wartortle": {
+        "category_name": "TURTLE",
+        "height": 10,
+        "weight": 225,
+        "description": "gWartortlePokedexText",
+        "pokemon_scale": 332,
+        "pokemon_offset": 10,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "blastoise": {
+        "category_name": "SHELLFISH",
+        "height": 16,
+        "weight": 855,
+        "description": "gBlastoisePokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": -1,
+        "trainer_scale": 293,
+        "trainer_offset": 2
+    },
+    "caterpie": {
+        "category_name": "WORM",
+        "height": 3,
+        "weight": 29,
+        "description": "gCaterpiePokedexText",
+        "pokemon_scale": 549,
+        "pokemon_offset": 22,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "metapod": {
+        "category_name": "COCOON",
+        "height": 7,
+        "weight": 99,
+        "description": "gMetapodPokedexText",
+        "pokemon_scale": 350,
+        "pokemon_offset": 18,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "butterfree": {
+        "category_name": "BUTTERFLY",
+        "height": 11,
+        "weight": 320,
+        "description": "gButterfreePokedexText",
+        "pokemon_scale": 312,
+        "pokemon_offset": 2,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "weedle": {
+        "category_name": "HAIRY BUG",
+        "height": 3,
+        "weight": 32,
+        "description": "gWeedlePokedexText",
+        "pokemon_scale": 455,
+        "pokemon_offset": 22,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "kakuna": {
+        "category_name": "COCOON",
+        "height": 6,
+        "weight": 100,
+        "description": "gKakunaPokedexText",
+        "pokemon_scale": 424,
+        "pokemon_offset": 17,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "beedrill": {
+        "category_name": "POISON BEE",
+        "height": 10,
+        "weight": 295,
+        "description": "gBeedrillPokedexText",
+        "pokemon_scale": 366,
+        "pokemon_offset": 2,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "pidgey": {
+        "category_name": "TINY BIRD",
+        "height": 3,
+        "weight": 18,
+        "description": "gPidgeyPokedexText",
+        "pokemon_scale": 508,
+        "pokemon_offset": -3,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "pidgeotto": {
+        "category_name": "BIRD",
+        "height": 11,
+        "weight": 300,
+        "description": "gPidgeottoPokedexText",
+        "pokemon_scale": 331,
+        "pokemon_offset": 10,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "pidgeot": {
+        "category_name": "BIRD",
+        "height": 15,
+        "weight": 395,
+        "description": "gPidgeotPokedexText",
+        "pokemon_scale": 269,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "rattata": {
+        "category_name": "MOUSE",
+        "height": 3,
+        "weight": 35,
+        "description": "gRattataPokedexText",
+        "pokemon_scale": 481,
+        "pokemon_offset": 21,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "raticate": {
+        "category_name": "MOUSE",
+        "height": 7,
+        "weight": 185,
+        "description": "gRaticatePokedexText",
+        "pokemon_scale": 459,
+        "pokemon_offset": 18,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "spearow": {
+        "category_name": "TINY BIRD",
+        "height": 3,
+        "weight": 20,
+        "description": "gSpearowPokedexText",
+        "pokemon_scale": 571,
+        "pokemon_offset": 22,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "fearow": {
+        "category_name": "BEAK",
+        "height": 12,
+        "weight": 380,
+        "description": "gFearowPokedexText",
+        "pokemon_scale": 278,
+        "pokemon_offset": 1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "ekans": {
+        "category_name": "SNAKE",
+        "height": 20,
+        "weight": 69,
+        "description": "gEkansPokedexText",
+        "pokemon_scale": 298,
+        "pokemon_offset": 12,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "arbok": {
+        "category_name": "COBRA",
+        "height": 35,
+        "weight": 650,
+        "description": "gArbokPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 296,
+        "trainer_offset": 2
+    },
+    "pikachu": {
+        "category_name": "MOUSE",
+        "height": 4,
+        "weight": 60,
+        "description": "gPikachuPokedexText",
+        "pokemon_scale": 479,
+        "pokemon_offset": 19,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "raichu": {
+        "category_name": "MOUSE",
+        "height": 8,
+        "weight": 300,
+        "description": "gRaichuPokedexText",
+        "pokemon_scale": 426,
+        "pokemon_offset": 13,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "sandshrew": {
+        "category_name": "MOUSE",
+        "height": 6,
+        "weight": 120,
+        "description": "gSandshrewPokedexText",
+        "pokemon_scale": 365,
+        "pokemon_offset": 18,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "sandslash": {
+        "category_name": "MOUSE",
+        "height": 10,
+        "weight": 295,
+        "description": "gSandslashPokedexText",
+        "pokemon_scale": 341,
+        "pokemon_offset": 11,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "nidoran_f": {
+        "category_name": "POISON PIN",
+        "height": 4,
+        "weight": 70,
+        "description": "gNidoranFPokedexText",
+        "pokemon_scale": 488,
+        "pokemon_offset": 21,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "nidorina": {
+        "category_name": "POISON PIN",
+        "height": 8,
+        "weight": 200,
+        "description": "gNidorinaPokedexText",
+        "pokemon_scale": 381,
+        "pokemon_offset": 15,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "nidoqueen": {
+        "category_name": "DRILL",
+        "height": 13,
+        "weight": 600,
+        "description": "gNidoqueenPokedexText",
+        "pokemon_scale": 293,
+        "pokemon_offset": 4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "nidoran_m": {
+        "category_name": "POISON PIN",
+        "height": 5,
+        "weight": 90,
+        "description": "gNidoranMPokedexText",
+        "pokemon_scale": 511,
+        "pokemon_offset": 20,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "nidorino": {
+        "category_name": "POISON PIN",
+        "height": 9,
+        "weight": 195,
+        "description": "gNidorinoPokedexText",
+        "pokemon_scale": 408,
+        "pokemon_offset": 15,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "nidoking": {
+        "category_name": "DRILL",
+        "height": 14,
+        "weight": 620,
+        "description": "gNidokingPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "clefairy": {
+        "category_name": "FAIRY",
+        "height": 6,
+        "weight": 75,
+        "description": "gClefairyPokedexText",
+        "pokemon_scale": 441,
+        "pokemon_offset": 20,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "clefable": {
+        "category_name": "FAIRY",
+        "height": 13,
+        "weight": 400,
+        "description": "gClefablePokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 5,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "vulpix": {
+        "category_name": "FOX",
+        "height": 6,
+        "weight": 99,
+        "description": "gVulpixPokedexText",
+        "pokemon_scale": 542,
+        "pokemon_offset": 19,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "ninetales": {
+        "category_name": "FOX",
+        "height": 11,
+        "weight": 199,
+        "description": "gNinetalesPokedexText",
+        "pokemon_scale": 339,
+        "pokemon_offset": 10,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "jigglypuff": {
+        "category_name": "BALLOON",
+        "height": 5,
+        "weight": 55,
+        "description": "gJigglypuffPokedexText",
+        "pokemon_scale": 433,
+        "pokemon_offset": 2,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "wigglytuff": {
+        "category_name": "BALLOON",
+        "height": 10,
+        "weight": 120,
+        "description": "gWigglytuffPokedexText",
+        "pokemon_scale": 328,
+        "pokemon_offset": 11,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "zubat": {
+        "category_name": "BAT",
+        "height": 8,
+        "weight": 75,
+        "description": "gZubatPokedexText",
+        "pokemon_scale": 362,
+        "pokemon_offset": -5,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "golbat": {
+        "category_name": "BAT",
+        "height": 16,
+        "weight": 550,
+        "description": "gGolbatPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "oddish": {
+        "category_name": "WEED",
+        "height": 5,
+        "weight": 54,
+        "description": "gOddishPokedexText",
+        "pokemon_scale": 423,
+        "pokemon_offset": 19,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "gloom": {
+        "category_name": "WEED",
+        "height": 8,
+        "weight": 86,
+        "description": "gGloomPokedexText",
+        "pokemon_scale": 329,
+        "pokemon_offset": 13,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "vileplume": {
+        "category_name": "FLOWER",
+        "height": 12,
+        "weight": 186,
+        "description": "gVileplumePokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "paras": {
+        "category_name": "MUSHROOM",
+        "height": 3,
+        "weight": 54,
+        "description": "gParasPokedexText",
+        "pokemon_scale": 593,
+        "pokemon_offset": 22,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "parasect": {
+        "category_name": "MUSHROOM",
+        "height": 10,
+        "weight": 295,
+        "description": "gParasectPokedexText",
+        "pokemon_scale": 307,
+        "pokemon_offset": 8,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "venonat": {
+        "category_name": "INSECT",
+        "height": 10,
+        "weight": 300,
+        "description": "gVenonatPokedexText",
+        "pokemon_scale": 360,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": -1
+    },
+    "venomoth": {
+        "category_name": "POISON MOTH",
+        "height": 15,
+        "weight": 125,
+        "description": "gVenomothPokedexText",
+        "pokemon_scale": 285,
+        "pokemon_offset": 2,
+        "trainer_scale": 256,
+        "trainer_offset": 1
+    },
+    "diglett": {
+        "category_name": "MOLE",
+        "height": 2,
+        "weight": 8,
+        "description": "gDiglettPokedexText",
+        "pokemon_scale": 833,
+        "pokemon_offset": 25,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "dugtrio": {
+        "category_name": "MOLE",
+        "height": 7,
+        "weight": 333,
+        "description": "gDugtrioPokedexText",
+        "pokemon_scale": 406,
+        "pokemon_offset": 18,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "meowth": {
+        "category_name": "SCRATCH CAT",
+        "height": 4,
+        "weight": 42,
+        "description": "gMeowthPokedexText",
+        "pokemon_scale": 480,
+        "pokemon_offset": 19,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "persian": {
+        "category_name": "CLASSY CAT",
+        "height": 10,
+        "weight": 320,
+        "description": "gPersianPokedexText",
+        "pokemon_scale": 320,
+        "pokemon_offset": 10,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "psyduck": {
+        "category_name": "DUCK",
+        "height": 8,
+        "weight": 196,
+        "description": "gPsyduckPokedexText",
+        "pokemon_scale": 369,
+        "pokemon_offset": 15,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "golduck": {
+        "category_name": "DUCK",
+        "height": 17,
+        "weight": 766,
+        "description": "gGolduckPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 1,
+        "trainer_scale": 273,
+        "trainer_offset": 1
+    },
+    "mankey": {
+        "category_name": "PIG MONKEY",
+        "height": 5,
+        "weight": 280,
+        "description": "gMankeyPokedexText",
+        "pokemon_scale": 404,
+        "pokemon_offset": 19,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "primeape": {
+        "category_name": "PIG MONKEY",
+        "height": 10,
+        "weight": 320,
+        "description": "gPrimeapePokedexText",
+        "pokemon_scale": 326,
+        "pokemon_offset": 10,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "growlithe": {
+        "category_name": "PUPPY",
+        "height": 7,
+        "weight": 190,
+        "description": "gGrowlithePokedexText",
+        "pokemon_scale": 346,
+        "pokemon_offset": 14,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "arcanine": {
+        "category_name": "LEGENDARY",
+        "height": 19,
+        "weight": 1550,
+        "description": "gArcaninePokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 1,
+        "trainer_scale": 312,
+        "trainer_offset": 4
+    },
+    "poliwag": {
+        "category_name": "TADPOLE",
+        "height": 6,
+        "weight": 124,
+        "description": "gPoliwagPokedexText",
+        "pokemon_scale": 369,
+        "pokemon_offset": 20,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "poliwhirl": {
+        "category_name": "TADPOLE",
+        "height": 10,
+        "weight": 200,
+        "description": "gPoliwhirlPokedexText",
+        "pokemon_scale": 288,
+        "pokemon_offset": 11,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "poliwrath": {
+        "category_name": "TADPOLE",
+        "height": 13,
+        "weight": 540,
+        "description": "gPoliwrathPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 6,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "abra": {
+        "category_name": "PSI",
+        "height": 9,
+        "weight": 195,
+        "description": "gAbraPokedexText",
+        "pokemon_scale": 363,
+        "pokemon_offset": 14,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "kadabra": {
+        "category_name": "PSI",
+        "height": 13,
+        "weight": 565,
+        "description": "gKadabraPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 3,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "alakazam": {
+        "category_name": "PSI",
+        "height": 15,
+        "weight": 480,
+        "description": "gAlakazamPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 3,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "machop": {
+        "category_name": "SUPERPOWER",
+        "height": 8,
+        "weight": 195,
+        "description": "gMachopPokedexText",
+        "pokemon_scale": 342,
+        "pokemon_offset": 14,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "machoke": {
+        "category_name": "SUPERPOWER",
+        "height": 15,
+        "weight": 705,
+        "description": "gMachokePokedexText",
+        "pokemon_scale": 323,
+        "pokemon_offset": 9,
+        "trainer_scale": 257,
+        "trainer_offset": 0
+    },
+    "machamp": {
+        "category_name": "SUPERPOWER",
+        "height": 16,
+        "weight": 1300,
+        "description": "gMachampPokedexText",
+        "pokemon_scale": 280,
+        "pokemon_offset": 1,
+        "trainer_scale": 269,
+        "trainer_offset": -1
+    },
+    "bellsprout": {
+        "category_name": "FLOWER",
+        "height": 7,
+        "weight": 40,
+        "description": "gBellsproutPokedexText",
+        "pokemon_scale": 354,
+        "pokemon_offset": 16,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "weepinbell": {
+        "category_name": "FLYCATCHER",
+        "height": 10,
+        "weight": 64,
+        "description": "gWeepinbellPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "victreebel": {
+        "category_name": "FLYCATCHER",
+        "height": 17,
+        "weight": 155,
+        "description": "gVictreebelPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 1,
+        "trainer_scale": 312,
+        "trainer_offset": 3
+    },
+    "tentacool": {
+        "category_name": "JELLYFISH",
+        "height": 9,
+        "weight": 455,
+        "description": "gTentacoolPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "tentacruel": {
+        "category_name": "JELLYFISH",
+        "height": 16,
+        "weight": 550,
+        "description": "gTentacruelPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 312,
+        "trainer_offset": 1
+    },
+    "geodude": {
+        "category_name": "ROCK",
+        "height": 4,
+        "weight": 200,
+        "description": "gGeodudePokedexText",
+        "pokemon_scale": 347,
+        "pokemon_offset": 18,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "graveler": {
+        "category_name": "ROCK",
+        "height": 10,
+        "weight": 1050,
+        "description": "gGravelerPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 2,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "golem": {
+        "category_name": "MEGATON",
+        "height": 14,
+        "weight": 3000,
+        "description": "gGolemPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 3,
+        "trainer_scale": 296,
+        "trainer_offset": 2
+    },
+    "ponyta": {
+        "category_name": "FIRE HORSE",
+        "height": 10,
+        "weight": 300,
+        "description": "gPonytaPokedexText",
+        "pokemon_scale": 283,
+        "pokemon_offset": 8,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "rapidash": {
+        "category_name": "FIRE HORSE",
+        "height": 17,
+        "weight": 950,
+        "description": "gRapidashPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 289,
+        "trainer_offset": 1
+    },
+    "slowpoke": {
+        "category_name": "DOPEY",
+        "height": 12,
+        "weight": 360,
+        "description": "gSlowpokePokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 10,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "slowbro": {
+        "category_name": "HERMIT CRAB",
+        "height": 16,
+        "weight": 785,
+        "description": "gSlowbroPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 6,
+        "trainer_scale": 296,
+        "trainer_offset": 2
+    },
+    "magnemite": {
+        "category_name": "MAGNET",
+        "height": 3,
+        "weight": 60,
+        "description": "gMagnemitePokedexText",
+        "pokemon_scale": 288,
+        "pokemon_offset": -9,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "magneton": {
+        "category_name": "MAGNET",
+        "height": 10,
+        "weight": 600,
+        "description": "gMagnetonPokedexText",
+        "pokemon_scale": 292,
+        "pokemon_offset": 1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "farfetchd": {
+        "category_name": "WILD DUCK",
+        "height": 8,
+        "weight": 150,
+        "description": "gFarfetchdPokedexText",
+        "pokemon_scale": 330,
+        "pokemon_offset": 2,
+        "trainer_scale": 293,
+        "trainer_offset": 2
+    },
+    "doduo": {
+        "category_name": "TWIN BIRD",
+        "height": 14,
+        "weight": 392,
+        "description": "gDoduoPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 3,
+        "trainer_scale": 257,
+        "trainer_offset": -1
+    },
+    "dodrio": {
+        "category_name": "TRIPLE BIRD",
+        "height": 18,
+        "weight": 852,
+        "description": "gDodrioPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 268,
+        "trainer_offset": 0
+    },
+    "seel": {
+        "category_name": "SEA LION",
+        "height": 11,
+        "weight": 900,
+        "description": "gSeelPokedexText",
+        "pokemon_scale": 297,
+        "pokemon_offset": 8,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "dewgong": {
+        "category_name": "SEA LION",
+        "height": 17,
+        "weight": 1200,
+        "description": "gDewgongPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 275,
+        "trainer_offset": 0
+    },
+    "grimer": {
+        "category_name": "SLUDGE",
+        "height": 9,
+        "weight": 300,
+        "description": "gGrimerPokedexText",
+        "pokemon_scale": 258,
+        "pokemon_offset": 10,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "muk": {
+        "category_name": "SLUDGE",
+        "height": 12,
+        "weight": 300,
+        "description": "gMukPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 2,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "shellder": {
+        "category_name": "BIVALVE",
+        "height": 3,
+        "weight": 40,
+        "description": "gShellderPokedexText",
+        "pokemon_scale": 675,
+        "pokemon_offset": 24,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "cloyster": {
+        "category_name": "BIVALVE",
+        "height": 15,
+        "weight": 1325,
+        "description": "gCloysterPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 269,
+        "trainer_offset": 1
+    },
+    "gastly": {
+        "category_name": "GAS",
+        "height": 13,
+        "weight": 1,
+        "description": "gGastlyPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "haunter": {
+        "category_name": "GAS",
+        "height": 16,
+        "weight": 1,
+        "description": "gHaunterPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 2,
+        "trainer_scale": 293,
+        "trainer_offset": 2
+    },
+    "gengar": {
+        "category_name": "SHADOW",
+        "height": 15,
+        "weight": 405,
+        "description": "gGengarPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 2,
+        "trainer_scale": 302,
+        "trainer_offset": 2
+    },
+    "onix": {
+        "category_name": "ROCK SNAKE",
+        "height": 88,
+        "weight": 2100,
+        "description": "gOnixPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 1,
+        "trainer_scale": 515,
+        "trainer_offset": 14
+    },
+    "drowzee": {
+        "category_name": "HYPNOSIS",
+        "height": 10,
+        "weight": 324,
+        "description": "gDrowzeePokedexText",
+        "pokemon_scale": 274,
+        "pokemon_offset": 6,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "hypno": {
+        "category_name": "HYPNOSIS",
+        "height": 16,
+        "weight": 756,
+        "description": "gHypnoPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 3,
+        "trainer_scale": 257,
+        "trainer_offset": 0
+    },
+    "krabby": {
+        "category_name": "RIVER CRAB",
+        "height": 4,
+        "weight": 65,
+        "description": "gKrabbyPokedexText",
+        "pokemon_scale": 469,
+        "pokemon_offset": 20,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "kingler": {
+        "category_name": "PINCER",
+        "height": 13,
+        "weight": 600,
+        "description": "gKinglerPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 2,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "voltorb": {
+        "category_name": "BALL",
+        "height": 5,
+        "weight": 104,
+        "description": "gVoltorbPokedexText",
+        "pokemon_scale": 364,
+        "pokemon_offset": -8,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "electrode": {
+        "category_name": "BALL",
+        "height": 12,
+        "weight": 666,
+        "description": "gElectrodePokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "exeggcute": {
+        "category_name": "EGG",
+        "height": 4,
+        "weight": 25,
+        "description": "gExeggcutePokedexText",
+        "pokemon_scale": 489,
+        "pokemon_offset": -4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "exeggutor": {
+        "category_name": "COCONUT",
+        "height": 20,
+        "weight": 1200,
+        "description": "gExeggutorPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 309,
+        "trainer_offset": 5
+    },
+    "cubone": {
+        "category_name": "LONELY",
+        "height": 4,
+        "weight": 65,
+        "description": "gCubonePokedexText",
+        "pokemon_scale": 545,
+        "pokemon_offset": 21,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "marowak": {
+        "category_name": "BONE KEEPER",
+        "height": 10,
+        "weight": 450,
+        "description": "gMarowakPokedexText",
+        "pokemon_scale": 293,
+        "pokemon_offset": 12,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "hitmonlee": {
+        "category_name": "KICKING",
+        "height": 15,
+        "weight": 498,
+        "description": "gHitmonleePokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 3,
+        "trainer_scale": 259,
+        "trainer_offset": 1
+    },
+    "hitmonchan": {
+        "category_name": "PUNCHING",
+        "height": 14,
+        "weight": 502,
+        "description": "gHitmonchanPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 2,
+        "trainer_scale": 277,
+        "trainer_offset": 2
+    },
+    "lickitung": {
+        "category_name": "LICKING",
+        "height": 12,
+        "weight": 655,
+        "description": "gLickitungPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "koffing": {
+        "category_name": "POISON GAS",
+        "height": 6,
+        "weight": 10,
+        "description": "gKoffingPokedexText",
+        "pokemon_scale": 369,
+        "pokemon_offset": -1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "weezing": {
+        "category_name": "POISON GAS",
+        "height": 12,
+        "weight": 95,
+        "description": "gWeezingPokedexText",
+        "pokemon_scale": 305,
+        "pokemon_offset": 3,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "rhyhorn": {
+        "category_name": "SPIKES",
+        "height": 10,
+        "weight": 1150,
+        "description": "gRhyhornPokedexText",
+        "pokemon_scale": 267,
+        "pokemon_offset": 6,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "rhydon": {
+        "category_name": "DRILL",
+        "height": 19,
+        "weight": 1200,
+        "description": "gRhydonPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 1,
+        "trainer_scale": 299,
+        "trainer_offset": 2
+    },
+    "chansey": {
+        "category_name": "EGG",
+        "height": 11,
+        "weight": 346,
+        "description": "gChanseyPokedexText",
+        "pokemon_scale": 257,
+        "pokemon_offset": 7,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "tangela": {
+        "category_name": "VINE",
+        "height": 10,
+        "weight": 350,
+        "description": "gTangelaPokedexText",
+        "pokemon_scale": 304,
+        "pokemon_offset": 1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "kangaskhan": {
+        "category_name": "PARENT",
+        "height": 22,
+        "weight": 800,
+        "description": "gKangaskhanPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 387,
+        "trainer_offset": 8
+    },
+    "horsea": {
+        "category_name": "DRAGON",
+        "height": 4,
+        "weight": 80,
+        "description": "gHorseaPokedexText",
+        "pokemon_scale": 399,
+        "pokemon_offset": -1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "seadra": {
+        "category_name": "DRAGON",
+        "height": 12,
+        "weight": 250,
+        "description": "gSeadraPokedexText",
+        "pokemon_scale": 299,
+        "pokemon_offset": 3,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "goldeen": {
+        "category_name": "GOLDFISH",
+        "height": 6,
+        "weight": 150,
+        "description": "gGoldeenPokedexText",
+        "pokemon_scale": 379,
+        "pokemon_offset": 4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "seaking": {
+        "category_name": "GOLDFISH",
+        "height": 13,
+        "weight": 390,
+        "description": "gSeakingPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 3,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "staryu": {
+        "category_name": "STAR SHAPE",
+        "height": 8,
+        "weight": 345,
+        "description": "gStaryuPokedexText",
+        "pokemon_scale": 326,
+        "pokemon_offset": 1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "starmie": {
+        "category_name": "MYSTERIOUS",
+        "height": 11,
+        "weight": 800,
+        "description": "gStarmiePokedexText",
+        "pokemon_scale": 301,
+        "pokemon_offset": 3,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "mr_mime": {
+        "category_name": "BARRIER",
+        "height": 13,
+        "weight": 545,
+        "description": "gMrmimePokedexText",
+        "pokemon_scale": 258,
+        "pokemon_offset": 6,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "scyther": {
+        "category_name": "MANTIS",
+        "height": 15,
+        "weight": 560,
+        "description": "gScytherPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 1,
+        "trainer_scale": 293,
+        "trainer_offset": 2
+    },
+    "jynx": {
+        "category_name": "HUMAN SHAPE",
+        "height": 14,
+        "weight": 406,
+        "description": "gJynxPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 3,
+        "trainer_scale": 300,
+        "trainer_offset": 1
+    },
+    "electabuzz": {
+        "category_name": "ELECTRIC",
+        "height": 11,
+        "weight": 300,
+        "description": "gElectabuzzPokedexText",
+        "pokemon_scale": 351,
+        "pokemon_offset": 8,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "magmar": {
+        "category_name": "SPITFIRE",
+        "height": 13,
+        "weight": 445,
+        "description": "gMagmarPokedexText",
+        "pokemon_scale": 277,
+        "pokemon_offset": 5,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "pinsir": {
+        "category_name": "STAG BEETLE",
+        "height": 15,
+        "weight": 550,
+        "description": "gPinsirPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 2,
+        "trainer_scale": 257,
+        "trainer_offset": 0
+    },
+    "tauros": {
+        "category_name": "WILD BULL",
+        "height": 14,
+        "weight": 884,
+        "description": "gTaurosPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "magikarp": {
+        "category_name": "FISH",
+        "height": 9,
+        "weight": 100,
+        "description": "gMagikarpPokedexText",
+        "pokemon_scale": 310,
+        "pokemon_offset": 4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "gyarados": {
+        "category_name": "ATROCIOUS",
+        "height": 65,
+        "weight": 2350,
+        "description": "gGyaradosPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 6,
+        "trainer_scale": 481,
+        "trainer_offset": 13
+    },
+    "lapras": {
+        "category_name": "TRANSPORT",
+        "height": 25,
+        "weight": 2200,
+        "description": "gLaprasPokedexText",
+        "pokemon_scale": 257,
+        "pokemon_offset": 10,
+        "trainer_scale": 423,
+        "trainer_offset": 8
+    },
+    "ditto": {
+        "category_name": "TRANSFORM",
+        "height": 3,
+        "weight": 40,
+        "description": "gDittoPokedexText",
+        "pokemon_scale": 633,
+        "pokemon_offset": 23,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "eevee": {
+        "category_name": "EVOLUTION",
+        "height": 3,
+        "weight": 65,
+        "description": "gEeveePokedexText",
+        "pokemon_scale": 476,
+        "pokemon_offset": 18,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "vaporeon": {
+        "category_name": "BUBBLE JET",
+        "height": 10,
+        "weight": 290,
+        "description": "gVaporeonPokedexText",
+        "pokemon_scale": 316,
+        "pokemon_offset": 8,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "jolteon": {
+        "category_name": "LIGHTNING",
+        "height": 8,
+        "weight": 245,
+        "description": "gJolteonPokedexText",
+        "pokemon_scale": 283,
+        "pokemon_offset": 8,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "flareon": {
+        "category_name": "FLAME",
+        "height": 9,
+        "weight": 250,
+        "description": "gFlareonPokedexText",
+        "pokemon_scale": 306,
+        "pokemon_offset": 12,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "porygon": {
+        "category_name": "VIRTUAL",
+        "height": 8,
+        "weight": 365,
+        "description": "gPorygonPokedexText",
+        "pokemon_scale": 328,
+        "pokemon_offset": 15,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "omanyte": {
+        "category_name": "SPIRAL",
+        "height": 4,
+        "weight": 75,
+        "description": "gOmanytePokedexText",
+        "pokemon_scale": 521,
+        "pokemon_offset": 22,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "omastar": {
+        "category_name": "SPIRAL",
+        "height": 10,
+        "weight": 350,
+        "description": "gOmastarPokedexText",
+        "pokemon_scale": 307,
+        "pokemon_offset": 7,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "kabuto": {
+        "category_name": "SHELLFISH",
+        "height": 5,
+        "weight": 115,
+        "description": "gKabutoPokedexText",
+        "pokemon_scale": 454,
+        "pokemon_offset": 21,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "kabutops": {
+        "category_name": "SHELLFISH",
+        "height": 13,
+        "weight": 405,
+        "description": "gKabutopsPokedexText",
+        "pokemon_scale": 271,
+        "pokemon_offset": 3,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "aerodactyl": {
+        "category_name": "FOSSIL",
+        "height": 18,
+        "weight": 590,
+        "description": "gAerodactylPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 302,
+        "trainer_offset": 4
+    },
+    "snorlax": {
+        "category_name": "SLEEPING",
+        "height": 21,
+        "weight": 4600,
+        "description": "gSnorlaxPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 4,
+        "trainer_scale": 423,
+        "trainer_offset": 11
+    },
+    "articuno": {
+        "category_name": "FREEZE",
+        "height": 17,
+        "weight": 554,
+        "description": "gArticunoPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 309,
+        "trainer_offset": 2
+    },
+    "zapdos": {
+        "category_name": "ELECTRIC",
+        "height": 16,
+        "weight": 526,
+        "description": "gZapdosPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 318,
+        "trainer_offset": 3
+    },
+    "moltres": {
+        "category_name": "FLAME",
+        "height": 20,
+        "weight": 600,
+        "description": "gMoltresPokedexText",
+        "pokemon_scale": 270,
+        "pokemon_offset": 0,
+        "trainer_scale": 387,
+        "trainer_offset": 8
+    },
+    "dratini": {
+        "category_name": "DRAGON",
+        "height": 18,
+        "weight": 33,
+        "description": "gDratiniPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 8,
+        "trainer_scale": 386,
+        "trainer_offset": 6
+    },
+    "dragonair": {
+        "category_name": "DRAGON",
+        "height": 40,
+        "weight": 165,
+        "description": "gDragonairPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 411,
+        "trainer_offset": 5
+    },
+    "dragonite": {
+        "category_name": "DRAGON",
+        "height": 22,
+        "weight": 2100,
+        "description": "gDragonitePokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 309,
+        "trainer_offset": 4
+    },
+    "mewtwo": {
+        "category_name": "GENETIC",
+        "height": 20,
+        "weight": 1220,
+        "description": "gMewtwoPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 309,
+        "trainer_offset": 4
+    },
+    "mew": {
+        "category_name": "NEW SPECIES",
+        "height": 4,
+        "weight": 40,
+        "description": "gMewPokedexText",
+        "pokemon_scale": 457,
+        "pokemon_offset": -2,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "chikorita": {
+        "category_name": "LEAF",
+        "height": 9,
+        "weight": 64,
+        "description": "gChikoritaPokedexText",
+        "pokemon_scale": 512,
+        "pokemon_offset": 20,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "bayleef": {
+        "category_name": "LEAF",
+        "height": 12,
+        "weight": 158,
+        "description": "gBayleefPokedexText",
+        "pokemon_scale": 296,
+        "pokemon_offset": 4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "meganium": {
+        "category_name": "HERB",
+        "height": 18,
+        "weight": 1005,
+        "description": "gMeganiumPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 277,
+        "trainer_offset": 1
+    },
+    "cyndaquil": {
+        "category_name": "FIRE MOUSE",
+        "height": 5,
+        "weight": 79,
+        "description": "gCyndaquilPokedexText",
+        "pokemon_scale": 539,
+        "pokemon_offset": 21,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "quilava": {
+        "category_name": "VOLCANO",
+        "height": 9,
+        "weight": 190,
+        "description": "gQuilavaPokedexText",
+        "pokemon_scale": 329,
+        "pokemon_offset": 11,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "typhlosion": {
+        "category_name": "VOLCANO",
+        "height": 17,
+        "weight": 795,
+        "description": "gTyphlosionPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 268,
+        "trainer_offset": 1
+    },
+    "totodile": {
+        "category_name": "BIG JAW",
+        "height": 6,
+        "weight": 95,
+        "description": "gTotodilePokedexText",
+        "pokemon_scale": 487,
+        "pokemon_offset": 20,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "croconaw": {
+        "category_name": "BIG JAW",
+        "height": 11,
+        "weight": 250,
+        "description": "gCroconawPokedexText",
+        "pokemon_scale": 378,
+        "pokemon_offset": 13,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "feraligatr": {
+        "category_name": "BIG JAW",
+        "height": 23,
+        "weight": 888,
+        "description": "gFeraligatrPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 342,
+        "trainer_offset": 7
+    },
+    "sentret": {
+        "category_name": "SCOUT",
+        "height": 8,
+        "weight": 60,
+        "description": "gSentretPokedexText",
+        "pokemon_scale": 439,
+        "pokemon_offset": 12,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "furret": {
+        "category_name": "LONG BODY",
+        "height": 18,
+        "weight": 325,
+        "description": "gFurretPokedexText",
+        "pokemon_scale": 346,
+        "pokemon_offset": 11,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "hoothoot": {
+        "category_name": "OWL",
+        "height": 7,
+        "weight": 212,
+        "description": "gHoothootPokedexText",
+        "pokemon_scale": 380,
+        "pokemon_offset": -2,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "noctowl": {
+        "category_name": "OWL",
+        "height": 16,
+        "weight": 408,
+        "description": "gNoctowlPokedexText",
+        "pokemon_scale": 278,
+        "pokemon_offset": 3,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "ledyba": {
+        "category_name": "FIVE STAR",
+        "height": 10,
+        "weight": 108,
+        "description": "gLedybaPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "ledian": {
+        "category_name": "FIVE STAR",
+        "height": 14,
+        "weight": 356,
+        "description": "gLedianPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 2,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "spinarak": {
+        "category_name": "STRING SPIT",
+        "height": 5,
+        "weight": 85,
+        "description": "gSpinarakPokedexText",
+        "pokemon_scale": 414,
+        "pokemon_offset": 21,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "ariados": {
+        "category_name": "LONG LEG",
+        "height": 11,
+        "weight": 335,
+        "description": "gAriadosPokedexText",
+        "pokemon_scale": 316,
+        "pokemon_offset": 8,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "crobat": {
+        "category_name": "BAT",
+        "height": 18,
+        "weight": 750,
+        "description": "gCrobatPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 281,
+        "trainer_offset": 1
+    },
+    "chinchou": {
+        "category_name": "ANGLER",
+        "height": 5,
+        "weight": 120,
+        "description": "gChinchouPokedexText",
+        "pokemon_scale": 424,
+        "pokemon_offset": -2,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "lanturn": {
+        "category_name": "LIGHT",
+        "height": 12,
+        "weight": 225,
+        "description": "gLanturnPokedexText",
+        "pokemon_scale": 269,
+        "pokemon_offset": 6,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "pichu": {
+        "category_name": "TINY MOUSE",
+        "height": 3,
+        "weight": 20,
+        "description": "gPichuPokedexText",
+        "pokemon_scale": 508,
+        "pokemon_offset": 20,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "cleffa": {
+        "category_name": "STAR SHAPE",
+        "height": 3,
+        "weight": 30,
+        "description": "gCleffaPokedexText",
+        "pokemon_scale": 462,
+        "pokemon_offset": 23,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "igglybuff": {
+        "category_name": "BALLOON",
+        "height": 3,
+        "weight": 10,
+        "description": "gIgglybuffPokedexText",
+        "pokemon_scale": 457,
+        "pokemon_offset": -1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "togepi": {
+        "category_name": "SPIKE BALL",
+        "height": 3,
+        "weight": 15,
+        "description": "gTogepiPokedexText",
+        "pokemon_scale": 507,
+        "pokemon_offset": 23,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "togetic": {
+        "category_name": "HAPPINESS",
+        "height": 6,
+        "weight": 32,
+        "description": "gTogeticPokedexText",
+        "pokemon_scale": 424,
+        "pokemon_offset": 17,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "natu": {
+        "category_name": "TINY BIRD",
+        "height": 2,
+        "weight": 20,
+        "description": "gNatuPokedexText",
+        "pokemon_scale": 610,
+        "pokemon_offset": 25,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "xatu": {
+        "category_name": "MYSTIC",
+        "height": 15,
+        "weight": 150,
+        "description": "gXatuPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 6,
+        "trainer_scale": 318,
+        "trainer_offset": 4
+    },
+    "mareep": {
+        "category_name": "WOOL",
+        "height": 6,
+        "weight": 78,
+        "description": "gMareepPokedexText",
+        "pokemon_scale": 379,
+        "pokemon_offset": 18,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "flaaffy": {
+        "category_name": "WOOL",
+        "height": 8,
+        "weight": 133,
+        "description": "gFlaaffyPokedexText",
+        "pokemon_scale": 372,
+        "pokemon_offset": 15,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "ampharos": {
+        "category_name": "LIGHT",
+        "height": 14,
+        "weight": 615,
+        "description": "gAmpharosPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "bellossom": {
+        "category_name": "FLOWER",
+        "height": 4,
+        "weight": 58,
+        "description": "gBellossomPokedexText",
+        "pokemon_scale": 472,
+        "pokemon_offset": 21,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "marill": {
+        "category_name": "AQUA MOUSE",
+        "height": 4,
+        "weight": 85,
+        "description": "gMarillPokedexText",
+        "pokemon_scale": 476,
+        "pokemon_offset": 20,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "azumarill": {
+        "category_name": "AQUA RABBIT",
+        "height": 8,
+        "weight": 285,
+        "description": "gAzumarillPokedexText",
+        "pokemon_scale": 448,
+        "pokemon_offset": 16,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "sudowoodo": {
+        "category_name": "IMITATION",
+        "height": 12,
+        "weight": 380,
+        "description": "gSudowoodoPokedexText",
+        "pokemon_scale": 305,
+        "pokemon_offset": 8,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "politoed": {
+        "category_name": "FROG",
+        "height": 11,
+        "weight": 339,
+        "description": "gPolitoedPokedexText",
+        "pokemon_scale": 289,
+        "pokemon_offset": 6,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "hoppip": {
+        "category_name": "COTTONWEED",
+        "height": 4,
+        "weight": 5,
+        "description": "gHoppipPokedexText",
+        "pokemon_scale": 562,
+        "pokemon_offset": -7,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "skiploom": {
+        "category_name": "COTTONWEED",
+        "height": 6,
+        "weight": 10,
+        "description": "gSkiploomPokedexText",
+        "pokemon_scale": 387,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "jumpluff": {
+        "category_name": "COTTONWEED",
+        "height": 8,
+        "weight": 30,
+        "description": "gJumpluffPokedexText",
+        "pokemon_scale": 418,
+        "pokemon_offset": -4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "aipom": {
+        "category_name": "LONG TAIL",
+        "height": 8,
+        "weight": 115,
+        "description": "gAipomPokedexText",
+        "pokemon_scale": 363,
+        "pokemon_offset": 6,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "sunkern": {
+        "category_name": "SEED",
+        "height": 3,
+        "weight": 18,
+        "description": "gSunkernPokedexText",
+        "pokemon_scale": 541,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "sunflora": {
+        "category_name": "SUN",
+        "height": 8,
+        "weight": 85,
+        "description": "gSunfloraPokedexText",
+        "pokemon_scale": 444,
+        "pokemon_offset": 15,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "yanma": {
+        "category_name": "CLEAR WING",
+        "height": 12,
+        "weight": 380,
+        "description": "gYanmaPokedexText",
+        "pokemon_scale": 274,
+        "pokemon_offset": -1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "wooper": {
+        "category_name": "WATER FISH",
+        "height": 4,
+        "weight": 85,
+        "description": "gWooperPokedexText",
+        "pokemon_scale": 479,
+        "pokemon_offset": 21,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "quagsire": {
+        "category_name": "WATER FISH",
+        "height": 14,
+        "weight": 750,
+        "description": "gQuagsirePokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "espeon": {
+        "category_name": "SUN",
+        "height": 9,
+        "weight": 265,
+        "description": "gEspeonPokedexText",
+        "pokemon_scale": 363,
+        "pokemon_offset": 14,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "umbreon": {
+        "category_name": "MOONLIGHT",
+        "height": 10,
+        "weight": 270,
+        "description": "gUmbreonPokedexText",
+        "pokemon_scale": 317,
+        "pokemon_offset": 11,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "murkrow": {
+        "category_name": "DARKNESS",
+        "height": 5,
+        "weight": 21,
+        "description": "gMurkrowPokedexText",
+        "pokemon_scale": 401,
+        "pokemon_offset": -8,
+        "trainer_scale": 256,
+        "trainer_offset": 1
+    },
+    "slowking": {
+        "category_name": "ROYAL",
+        "height": 20,
+        "weight": 795,
+        "description": "gSlowkingPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 309,
+        "trainer_offset": 5
+    },
+    "misdreavus": {
+        "category_name": "SCREECH",
+        "height": 7,
+        "weight": 10,
+        "description": "gMisdreavusPokedexText",
+        "pokemon_scale": 407,
+        "pokemon_offset": -8,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "unown": {
+        "category_name": "SYMBOL",
+        "height": 5,
+        "weight": 50,
+        "description": "gUnownPokedexText",
+        "pokemon_scale": 411,
+        "pokemon_offset": 2,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "wobbuffet": {
+        "category_name": "PATIENT",
+        "height": 13,
+        "weight": 285,
+        "description": "gWobbuffetPokedexText",
+        "pokemon_scale": 274,
+        "pokemon_offset": 4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "girafarig": {
+        "category_name": "LONG NECK",
+        "height": 15,
+        "weight": 415,
+        "description": "gGirafarigPokedexText",
+        "pokemon_scale": 281,
+        "pokemon_offset": 1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "pineco": {
+        "category_name": "BAGWORM",
+        "height": 6,
+        "weight": 72,
+        "description": "gPinecoPokedexText",
+        "pokemon_scale": 445,
+        "pokemon_offset": 2,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "forretress": {
+        "category_name": "BAGWORM",
+        "height": 12,
+        "weight": 1258,
+        "description": "gForretressPokedexText",
+        "pokemon_scale": 293,
+        "pokemon_offset": 5,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "dunsparce": {
+        "category_name": "LAND SNAKE",
+        "height": 15,
+        "weight": 140,
+        "description": "gDunsparcePokedexText",
+        "pokemon_scale": 316,
+        "pokemon_offset": 17,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "gligar": {
+        "category_name": "FLYSCORPION",
+        "height": 11,
+        "weight": 648,
+        "description": "gGligarPokedexText",
+        "pokemon_scale": 350,
+        "pokemon_offset": -1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "steelix": {
+        "category_name": "IRON SNAKE",
+        "height": 92,
+        "weight": 4000,
+        "description": "gSteelixPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 516,
+        "trainer_offset": 13
+    },
+    "snubbull": {
+        "category_name": "FAIRY",
+        "height": 6,
+        "weight": 78,
+        "description": "gSnubbullPokedexText",
+        "pokemon_scale": 465,
+        "pokemon_offset": 19,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "granbull": {
+        "category_name": "FAIRY",
+        "height": 14,
+        "weight": 487,
+        "description": "gGranbullPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "qwilfish": {
+        "category_name": "BALLOON",
+        "height": 5,
+        "weight": 39,
+        "description": "gQwilfishPokedexText",
+        "pokemon_scale": 430,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "scizor": {
+        "category_name": "PINCER",
+        "height": 18,
+        "weight": 1180,
+        "description": "gScizorPokedexText",
+        "pokemon_scale": 278,
+        "pokemon_offset": 1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "shuckle": {
+        "category_name": "MOLD",
+        "height": 6,
+        "weight": 205,
+        "description": "gShucklePokedexText",
+        "pokemon_scale": 485,
+        "pokemon_offset": 18,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "heracross": {
+        "category_name": "SINGLE HORN",
+        "height": 15,
+        "weight": 540,
+        "description": "gHeracrossPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "sneasel": {
+        "category_name": "SHARP CLAW",
+        "height": 9,
+        "weight": 280,
+        "description": "gSneaselPokedexText",
+        "pokemon_scale": 413,
+        "pokemon_offset": -3,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "teddiursa": {
+        "category_name": "LITTLE BEAR",
+        "height": 6,
+        "weight": 88,
+        "description": "gTeddiursaPokedexText",
+        "pokemon_scale": 455,
+        "pokemon_offset": 19,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "ursaring": {
+        "category_name": "HIBERNATOR",
+        "height": 18,
+        "weight": 1258,
+        "description": "gUrsaringPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "slugma": {
+        "category_name": "LAVA",
+        "height": 7,
+        "weight": 350,
+        "description": "gSlugmaPokedexText",
+        "pokemon_scale": 329,
+        "pokemon_offset": 15,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "magcargo": {
+        "category_name": "LAVA",
+        "height": 8,
+        "weight": 550,
+        "description": "gMagcargoPokedexText",
+        "pokemon_scale": 332,
+        "pokemon_offset": 15,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "swinub": {
+        "category_name": "PIG",
+        "height": 4,
+        "weight": 65,
+        "description": "gSwinubPokedexText",
+        "pokemon_scale": 324,
+        "pokemon_offset": 20,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "piloswine": {
+        "category_name": "SWINE",
+        "height": 11,
+        "weight": 558,
+        "description": "gPiloswinePokedexText",
+        "pokemon_scale": 306,
+        "pokemon_offset": 10,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "corsola": {
+        "category_name": "CORAL",
+        "height": 6,
+        "weight": 50,
+        "description": "gCorsolaPokedexText",
+        "pokemon_scale": 410,
+        "pokemon_offset": 15,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "remoraid": {
+        "category_name": "JET",
+        "height": 6,
+        "weight": 120,
+        "description": "gRemoraidPokedexText",
+        "pokemon_scale": 316,
+        "pokemon_offset": 4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "octillery": {
+        "category_name": "JET",
+        "height": 9,
+        "weight": 285,
+        "description": "gOctilleryPokedexText",
+        "pokemon_scale": 296,
+        "pokemon_offset": 3,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "delibird": {
+        "category_name": "DELIVERY",
+        "height": 9,
+        "weight": 160,
+        "description": "gDelibirdPokedexText",
+        "pokemon_scale": 293,
+        "pokemon_offset": 11,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "mantine": {
+        "category_name": "KITE",
+        "height": 21,
+        "weight": 2200,
+        "description": "gMantinePokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 342,
+        "trainer_offset": 7
+    },
+    "skarmory": {
+        "category_name": "ARMOR BIRD",
+        "height": 17,
+        "weight": 505,
+        "description": "gSkarmoryPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 271,
+        "trainer_offset": 1
+    },
+    "houndour": {
+        "category_name": "DARK",
+        "height": 6,
+        "weight": 108,
+        "description": "gHoundourPokedexText",
+        "pokemon_scale": 393,
+        "pokemon_offset": 16,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "houndoom": {
+        "category_name": "DARK",
+        "height": 14,
+        "weight": 350,
+        "description": "gHoundoomPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "kingdra": {
+        "category_name": "DRAGON",
+        "height": 18,
+        "weight": 1520,
+        "description": "gKingdraPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 287,
+        "trainer_offset": 0
+    },
+    "phanpy": {
+        "category_name": "LONG NOSE",
+        "height": 5,
+        "weight": 335,
+        "description": "gPhanpyPokedexText",
+        "pokemon_scale": 465,
+        "pokemon_offset": 21,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "donphan": {
+        "category_name": "ARMOR",
+        "height": 11,
+        "weight": 1200,
+        "description": "gDonphanPokedexText",
+        "pokemon_scale": 313,
+        "pokemon_offset": 9,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "porygon2": {
+        "category_name": "VIRTUAL",
+        "height": 6,
+        "weight": 325,
+        "description": "gPorygon2PokedexText",
+        "pokemon_scale": 320,
+        "pokemon_offset": 17,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "stantler": {
+        "category_name": "BIG HORN",
+        "height": 14,
+        "weight": 712,
+        "description": "gStantlerPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "smeargle": {
+        "category_name": "PAINTER",
+        "height": 12,
+        "weight": 580,
+        "description": "gSmearglePokedexText",
+        "pokemon_scale": 287,
+        "pokemon_offset": 5,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "tyrogue": {
+        "category_name": "SCUFFLE",
+        "height": 7,
+        "weight": 210,
+        "description": "gTyroguePokedexText",
+        "pokemon_scale": 292,
+        "pokemon_offset": 9,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "hitmontop": {
+        "category_name": "HANDSTAND",
+        "height": 14,
+        "weight": 480,
+        "description": "gHitmontopPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 2,
+        "trainer_scale": 257,
+        "trainer_offset": 0
+    },
+    "smoochum": {
+        "category_name": "KISS",
+        "height": 4,
+        "weight": 60,
+        "description": "gSmoochumPokedexText",
+        "pokemon_scale": 440,
+        "pokemon_offset": 20,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "elekid": {
+        "category_name": "ELECTRIC",
+        "height": 6,
+        "weight": 235,
+        "description": "gElekidPokedexText",
+        "pokemon_scale": 363,
+        "pokemon_offset": 14,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "magby": {
+        "category_name": "LIVE COAL",
+        "height": 7,
+        "weight": 214,
+        "description": "gMagbyPokedexText",
+        "pokemon_scale": 284,
+        "pokemon_offset": 13,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "miltank": {
+        "category_name": "MILK COW",
+        "height": 12,
+        "weight": 755,
+        "description": "gMiltankPokedexText",
+        "pokemon_scale": 280,
+        "pokemon_offset": 5,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "blissey": {
+        "category_name": "HAPPINESS",
+        "height": 15,
+        "weight": 468,
+        "description": "gBlisseyPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 4,
+        "trainer_scale": 310,
+        "trainer_offset": 3
+    },
+    "raikou": {
+        "category_name": "THUNDER",
+        "height": 19,
+        "weight": 1780,
+        "description": "gRaikouPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 345,
+        "trainer_offset": 7
+    },
+    "entei": {
+        "category_name": "VOLCANO",
+        "height": 21,
+        "weight": 1980,
+        "description": "gEnteiPokedexText",
+        "pokemon_scale": 259,
+        "pokemon_offset": 0,
+        "trainer_scale": 345,
+        "trainer_offset": 7
+    },
+    "suicune": {
+        "category_name": "AURORA",
+        "height": 20,
+        "weight": 1870,
+        "description": "gSuicunePokedexText",
+        "pokemon_scale": 269,
+        "pokemon_offset": 0,
+        "trainer_scale": 345,
+        "trainer_offset": 7
+    },
+    "larvitar": {
+        "category_name": "ROCK SKIN",
+        "height": 6,
+        "weight": 720,
+        "description": "gLarvitarPokedexText",
+        "pokemon_scale": 472,
+        "pokemon_offset": 18,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "pupitar": {
+        "category_name": "HARD SHELL",
+        "height": 12,
+        "weight": 1520,
+        "description": "gPupitarPokedexText",
+        "pokemon_scale": 292,
+        "pokemon_offset": 8,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "tyranitar": {
+        "category_name": "ARMOR",
+        "height": 20,
+        "weight": 2020,
+        "description": "gTyranitarPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 345,
+        "trainer_offset": 7
+    },
+    "lugia": {
+        "category_name": "DIVING",
+        "height": 52,
+        "weight": 2160,
+        "description": "gLugiaPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 721,
+        "trainer_offset": 19
+    },
+    "ho_oh": {
+        "category_name": "RAINBOW",
+        "height": 38,
+        "weight": 1990,
+        "description": "gHoOhPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 610,
+        "trainer_offset": 17
+    },
+    "celebi": {
+        "category_name": "TIME TRAVEL",
+        "height": 6,
+        "weight": 50,
+        "description": "gCelebiPokedexText",
+        "pokemon_scale": 393,
+        "pokemon_offset": -10,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "treecko": {
+        "category_name": "WOOD GECKO",
+        "height": 5,
+        "weight": 50,
+        "description": "gTreeckoPokedexText",
+        "pokemon_scale": 541,
+        "pokemon_offset": 19,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "grovyle": {
+        "category_name": "WOOD GECKO",
+        "height": 9,
+        "weight": 216,
+        "description": "gGrovylePokedexText",
+        "pokemon_scale": 360,
+        "pokemon_offset": 5,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "sceptile": {
+        "category_name": "FOREST",
+        "height": 17,
+        "weight": 522,
+        "description": "gSceptilePokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": -1,
+        "trainer_scale": 275,
+        "trainer_offset": 2
+    },
+    "torchic": {
+        "category_name": "CHICK",
+        "height": 4,
+        "weight": 25,
+        "description": "gTorchicPokedexText",
+        "pokemon_scale": 566,
+        "pokemon_offset": 19,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "combusken": {
+        "category_name": "YOUNG FOWL",
+        "height": 9,
+        "weight": 195,
+        "description": "gCombuskenPokedexText",
+        "pokemon_scale": 343,
+        "pokemon_offset": 5,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "blaziken": {
+        "category_name": "BLAZE",
+        "height": 19,
+        "weight": 520,
+        "description": "gBlazikenPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 301,
+        "trainer_offset": 4
+    },
+    "mudkip": {
+        "category_name": "MUD FISH",
+        "height": 4,
+        "weight": 76,
+        "description": "gMudkipPokedexText",
+        "pokemon_scale": 535,
+        "pokemon_offset": 20,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "marshtomp": {
+        "category_name": "MUD FISH",
+        "height": 7,
+        "weight": 280,
+        "description": "gMarshtompPokedexText",
+        "pokemon_scale": 340,
+        "pokemon_offset": 7,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "swampert": {
+        "category_name": "MUD FISH",
+        "height": 15,
+        "weight": 819,
+        "description": "gSwampertPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "poochyena": {
+        "category_name": "BITE",
+        "height": 5,
+        "weight": 136,
+        "description": "gPoochyenaPokedexText",
+        "pokemon_scale": 481,
+        "pokemon_offset": 19,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "mightyena": {
+        "category_name": "BITE",
+        "height": 10,
+        "weight": 370,
+        "description": "gMightyenaPokedexText",
+        "pokemon_scale": 362,
+        "pokemon_offset": 9,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "zigzagoon": {
+        "category_name": "TINYRACCOON",
+        "height": 4,
+        "weight": 175,
+        "description": "gZigzagoonPokedexText",
+        "pokemon_scale": 560,
+        "pokemon_offset": 22,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "linoone": {
+        "category_name": "RUSHING",
+        "height": 5,
+        "weight": 325,
+        "description": "gLinoonePokedexText",
+        "pokemon_scale": 321,
+        "pokemon_offset": 7,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "wurmple": {
+        "category_name": "WORM",
+        "height": 3,
+        "weight": 36,
+        "description": "gWurmplePokedexText",
+        "pokemon_scale": 711,
+        "pokemon_offset": 24,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "silcoon": {
+        "category_name": "COCOON",
+        "height": 6,
+        "weight": 100,
+        "description": "gSilcoonPokedexText",
+        "pokemon_scale": 431,
+        "pokemon_offset": 19,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "beautifly": {
+        "category_name": "BUTTERFLY",
+        "height": 10,
+        "weight": 284,
+        "description": "gBeautiflyPokedexText",
+        "pokemon_scale": 298,
+        "pokemon_offset": -1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "cascoon": {
+        "category_name": "COCOON",
+        "height": 7,
+        "weight": 115,
+        "description": "gCascoonPokedexText",
+        "pokemon_scale": 391,
+        "pokemon_offset": 20,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "dustox": {
+        "category_name": "POISON MOTH",
+        "height": 12,
+        "weight": 316,
+        "description": "gDustoxPokedexText",
+        "pokemon_scale": 269,
+        "pokemon_offset": 1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "lotad": {
+        "category_name": "WATER WEED",
+        "height": 5,
+        "weight": 26,
+        "description": "gLotadPokedexText",
+        "pokemon_scale": 406,
+        "pokemon_offset": 19,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "lombre": {
+        "category_name": "JOLLY",
+        "height": 12,
+        "weight": 325,
+        "description": "gLombrePokedexText",
+        "pokemon_scale": 277,
+        "pokemon_offset": 9,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "ludicolo": {
+        "category_name": "CAREFREE",
+        "height": 15,
+        "weight": 550,
+        "description": "gLudicoloPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 268,
+        "trainer_offset": -1
+    },
+    "seedot": {
+        "category_name": "ACORN",
+        "height": 5,
+        "weight": 40,
+        "description": "gSeedotPokedexText",
+        "pokemon_scale": 472,
+        "pokemon_offset": 20,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "nuzleaf": {
+        "category_name": "WILY",
+        "height": 10,
+        "weight": 280,
+        "description": "gNuzleafPokedexText",
+        "pokemon_scale": 299,
+        "pokemon_offset": 10,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "shiftry": {
+        "category_name": "WICKED",
+        "height": 13,
+        "weight": 596,
+        "description": "gShiftryPokedexText",
+        "pokemon_scale": 290,
+        "pokemon_offset": 4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "taillow": {
+        "category_name": "TINYSWALLOW",
+        "height": 3,
+        "weight": 23,
+        "description": "gTaillowPokedexText",
+        "pokemon_scale": 465,
+        "pokemon_offset": 21,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "swellow": {
+        "category_name": "SWALLOW",
+        "height": 7,
+        "weight": 198,
+        "description": "gSwellowPokedexText",
+        "pokemon_scale": 428,
+        "pokemon_offset": 15,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "wingull": {
+        "category_name": "SEAGULL",
+        "height": 6,
+        "weight": 95,
+        "description": "gWingullPokedexText",
+        "pokemon_scale": 295,
+        "pokemon_offset": -2,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "pelipper": {
+        "category_name": "WATER BIRD",
+        "height": 12,
+        "weight": 280,
+        "description": "gPelipperPokedexText",
+        "pokemon_scale": 288,
+        "pokemon_offset": 1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "ralts": {
+        "category_name": "FEELING",
+        "height": 4,
+        "weight": 66,
+        "description": "gRaltsPokedexText",
+        "pokemon_scale": 457,
+        "pokemon_offset": -3,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "kirlia": {
+        "category_name": "EMOTION",
+        "height": 8,
+        "weight": 202,
+        "description": "gKirliaPokedexText",
+        "pokemon_scale": 354,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "gardevoir": {
+        "category_name": "EMBRACE",
+        "height": 16,
+        "weight": 484,
+        "description": "gGardevoirPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "surskit": {
+        "category_name": "POND SKATER",
+        "height": 5,
+        "weight": 17,
+        "description": "gSurskitPokedexText",
+        "pokemon_scale": 375,
+        "pokemon_offset": 17,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "masquerain": {
+        "category_name": "EYEBALL",
+        "height": 8,
+        "weight": 36,
+        "description": "gMasquerainPokedexText",
+        "pokemon_scale": 378,
+        "pokemon_offset": 8,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "shroomish": {
+        "category_name": "MUSHROOM",
+        "height": 4,
+        "weight": 45,
+        "description": "gShroomishPokedexText",
+        "pokemon_scale": 513,
+        "pokemon_offset": 22,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "breloom": {
+        "category_name": "MUSHROOM",
+        "height": 12,
+        "weight": 392,
+        "description": "gBreloomPokedexText",
+        "pokemon_scale": 324,
+        "pokemon_offset": 6,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "slakoth": {
+        "category_name": "SLACKER",
+        "height": 8,
+        "weight": 240,
+        "description": "gSlakothPokedexText",
+        "pokemon_scale": 291,
+        "pokemon_offset": 16,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "vigoroth": {
+        "category_name": "WILD MONKEY",
+        "height": 14,
+        "weight": 465,
+        "description": "gVigorothPokedexText",
+        "pokemon_scale": 301,
+        "pokemon_offset": 2,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "slaking": {
+        "category_name": "LAZY",
+        "height": 20,
+        "weight": 1305,
+        "description": "gSlakingPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 2,
+        "trainer_scale": 300,
+        "trainer_offset": 1
+    },
+    "nincada": {
+        "category_name": "TRAINEE",
+        "height": 5,
+        "weight": 55,
+        "description": "gNincadaPokedexText",
+        "pokemon_scale": 405,
+        "pokemon_offset": 21,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "ninjask": {
+        "category_name": "NINJA",
+        "height": 8,
+        "weight": 120,
+        "description": "gNinjaskPokedexText",
+        "pokemon_scale": 383,
+        "pokemon_offset": -9,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "shedinja": {
+        "category_name": "SHED",
+        "height": 8,
+        "weight": 12,
+        "description": "gShedinjaPokedexText",
+        "pokemon_scale": 372,
+        "pokemon_offset": -8,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "whismur": {
+        "category_name": "WHISPER",
+        "height": 6,
+        "weight": 163,
+        "description": "gWhismurPokedexText",
+        "pokemon_scale": 373,
+        "pokemon_offset": 17,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "loudred": {
+        "category_name": "BIG VOICE",
+        "height": 10,
+        "weight": 405,
+        "description": "gLoudredPokedexText",
+        "pokemon_scale": 356,
+        "pokemon_offset": 10,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "exploud": {
+        "category_name": "LOUD NOISE",
+        "height": 15,
+        "weight": 840,
+        "description": "gExploudPokedexText",
+        "pokemon_scale": 284,
+        "pokemon_offset": 1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "makuhita": {
+        "category_name": "GUTS",
+        "height": 10,
+        "weight": 864,
+        "description": "gMakuhitaPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 10,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "hariyama": {
+        "category_name": "ARM THRUST",
+        "height": 23,
+        "weight": 2538,
+        "description": "gHariyamaPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 343,
+        "trainer_offset": 7
+    },
+    "azurill": {
+        "category_name": "POLKA DOT",
+        "height": 2,
+        "weight": 20,
+        "description": "gAzurillPokedexText",
+        "pokemon_scale": 603,
+        "pokemon_offset": 23,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "nosepass": {
+        "category_name": "COMPASS",
+        "height": 10,
+        "weight": 970,
+        "description": "gNosepassPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 9,
+        "trainer_scale": 289,
+        "trainer_offset": 3
+    },
+    "skitty": {
+        "category_name": "KITTEN",
+        "height": 6,
+        "weight": 110,
+        "description": "gSkittyPokedexText",
+        "pokemon_scale": 492,
+        "pokemon_offset": 19,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "delcatty": {
+        "category_name": "PRIM",
+        "height": 11,
+        "weight": 326,
+        "description": "gDelcattyPokedexText",
+        "pokemon_scale": 322,
+        "pokemon_offset": 10,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "sableye": {
+        "category_name": "DARKNESS",
+        "height": 5,
+        "weight": 110,
+        "description": "gSableyePokedexText",
+        "pokemon_scale": 451,
+        "pokemon_offset": 17,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "mawile": {
+        "category_name": "DECEIVER",
+        "height": 6,
+        "weight": 115,
+        "description": "gMawilePokedexText",
+        "pokemon_scale": 466,
+        "pokemon_offset": 17,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "aron": {
+        "category_name": "IRON ARMOR",
+        "height": 4,
+        "weight": 600,
+        "description": "gAronPokedexText",
+        "pokemon_scale": 419,
+        "pokemon_offset": 23,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "lairon": {
+        "category_name": "IRON ARMOR",
+        "height": 9,
+        "weight": 1200,
+        "description": "gLaironPokedexText",
+        "pokemon_scale": 275,
+        "pokemon_offset": 12,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "aggron": {
+        "category_name": "IRON ARMOR",
+        "height": 21,
+        "weight": 3600,
+        "description": "gAggronPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": -1,
+        "trainer_scale": 350,
+        "trainer_offset": 6
+    },
+    "meditite": {
+        "category_name": "MEDITATE",
+        "height": 6,
+        "weight": 112,
+        "description": "gMedititePokedexText",
+        "pokemon_scale": 465,
+        "pokemon_offset": 17,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "medicham": {
+        "category_name": "MEDITATE",
+        "height": 13,
+        "weight": 315,
+        "description": "gMedichamPokedexText",
+        "pokemon_scale": 298,
+        "pokemon_offset": 5,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "electrike": {
+        "category_name": "LIGHTNING",
+        "height": 6,
+        "weight": 152,
+        "description": "gElectrikePokedexText",
+        "pokemon_scale": 290,
+        "pokemon_offset": 15,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "manectric": {
+        "category_name": "DISCHARGE",
+        "height": 15,
+        "weight": 402,
+        "description": "gManectricPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 3,
+        "trainer_scale": 257,
+        "trainer_offset": 0
+    },
+    "plusle": {
+        "category_name": "CHEERING",
+        "height": 4,
+        "weight": 42,
+        "description": "gPluslePokedexText",
+        "pokemon_scale": 515,
+        "pokemon_offset": -9,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "minun": {
+        "category_name": "CHEERING",
+        "height": 4,
+        "weight": 42,
+        "description": "gMinunPokedexText",
+        "pokemon_scale": 512,
+        "pokemon_offset": -7,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "volbeat": {
+        "category_name": "FIREFLY",
+        "height": 7,
+        "weight": 177,
+        "description": "gVolbeatPokedexText",
+        "pokemon_scale": 442,
+        "pokemon_offset": 16,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "illumise": {
+        "category_name": "FIREFLY",
+        "height": 6,
+        "weight": 177,
+        "description": "gIllumisePokedexText",
+        "pokemon_scale": 572,
+        "pokemon_offset": 19,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "roselia": {
+        "category_name": "THORN",
+        "height": 3,
+        "weight": 20,
+        "description": "gRoseliaPokedexText",
+        "pokemon_scale": 677,
+        "pokemon_offset": 20,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "gulpin": {
+        "category_name": "STOMACH",
+        "height": 4,
+        "weight": 103,
+        "description": "gGulpinPokedexText",
+        "pokemon_scale": 593,
+        "pokemon_offset": 23,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "swalot": {
+        "category_name": "POISON BAG",
+        "height": 17,
+        "weight": 800,
+        "description": "gSwalotPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 6,
+        "trainer_scale": 345,
+        "trainer_offset": 3
+    },
+    "carvanha": {
+        "category_name": "SAVAGE",
+        "height": 8,
+        "weight": 208,
+        "description": "gCarvanhaPokedexText",
+        "pokemon_scale": 362,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "sharpedo": {
+        "category_name": "BRUTAL",
+        "height": 18,
+        "weight": 888,
+        "description": "gSharpedoPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 317,
+        "trainer_offset": 3
+    },
+    "wailmer": {
+        "category_name": "BALL WHALE",
+        "height": 20,
+        "weight": 1300,
+        "description": "gWailmerPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 2,
+        "trainer_scale": 493,
+        "trainer_offset": 0
+    },
+    "wailord": {
+        "category_name": "FLOAT WHALE",
+        "height": 145,
+        "weight": 3980,
+        "description": "gWailordPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 1352,
+        "trainer_offset": 18
+    },
+    "numel": {
+        "category_name": "NUMB",
+        "height": 7,
+        "weight": 240,
+        "description": "gNumelPokedexText",
+        "pokemon_scale": 342,
+        "pokemon_offset": 17,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "camerupt": {
+        "category_name": "ERUPTION",
+        "height": 19,
+        "weight": 2200,
+        "description": "gCameruptPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 7,
+        "trainer_scale": 345,
+        "trainer_offset": 6
+    },
+    "torkoal": {
+        "category_name": "COAL",
+        "height": 5,
+        "weight": 804,
+        "description": "gTorkoalPokedexText",
+        "pokemon_scale": 390,
+        "pokemon_offset": 9,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "spoink": {
+        "category_name": "BOUNCE",
+        "height": 7,
+        "weight": 306,
+        "description": "gSpoinkPokedexText",
+        "pokemon_scale": 423,
+        "pokemon_offset": 17,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "grumpig": {
+        "category_name": "MANIPULATE",
+        "height": 9,
+        "weight": 715,
+        "description": "gGrumpigPokedexText",
+        "pokemon_scale": 358,
+        "pokemon_offset": 10,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "spinda": {
+        "category_name": "SPOT PANDA",
+        "height": 11,
+        "weight": 50,
+        "description": "gSpindaPokedexText",
+        "pokemon_scale": 321,
+        "pokemon_offset": 4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "trapinch": {
+        "category_name": "ANT PIT",
+        "height": 7,
+        "weight": 150,
+        "description": "gTrapinchPokedexText",
+        "pokemon_scale": 298,
+        "pokemon_offset": 17,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "vibrava": {
+        "category_name": "VIBRATION",
+        "height": 11,
+        "weight": 153,
+        "description": "gVibravaPokedexText",
+        "pokemon_scale": 370,
+        "pokemon_offset": 11,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "flygon": {
+        "category_name": "MYSTIC",
+        "height": 20,
+        "weight": 820,
+        "description": "gFlygonPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 268,
+        "trainer_offset": 1
+    },
+    "cacnea": {
+        "category_name": "CACTUS",
+        "height": 4,
+        "weight": 513,
+        "description": "gCacneaPokedexText",
+        "pokemon_scale": 455,
+        "pokemon_offset": 20,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "cacturne": {
+        "category_name": "SCARECROW",
+        "height": 13,
+        "weight": 774,
+        "description": "gCacturnePokedexText",
+        "pokemon_scale": 327,
+        "pokemon_offset": 5,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "swablu": {
+        "category_name": "COTTON BIRD",
+        "height": 4,
+        "weight": 12,
+        "description": "gSwabluPokedexText",
+        "pokemon_scale": 422,
+        "pokemon_offset": -8,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "altaria": {
+        "category_name": "HUMMING",
+        "height": 11,
+        "weight": 206,
+        "description": "gAltariaPokedexText",
+        "pokemon_scale": 327,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "zangoose": {
+        "category_name": "CAT FERRET",
+        "height": 13,
+        "weight": 403,
+        "description": "gZangoosePokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 3,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "seviper": {
+        "category_name": "FANG SNAKE",
+        "height": 27,
+        "weight": 525,
+        "description": "gSeviperPokedexText",
+        "pokemon_scale": 275,
+        "pokemon_offset": 7,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "lunatone": {
+        "category_name": "METEORITE",
+        "height": 10,
+        "weight": 1680,
+        "description": "gLunatonePokedexText",
+        "pokemon_scale": 300,
+        "pokemon_offset": 3,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "solrock": {
+        "category_name": "METEORITE",
+        "height": 12,
+        "weight": 1540,
+        "description": "gSolrockPokedexText",
+        "pokemon_scale": 328,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "barboach": {
+        "category_name": "WHISKERS",
+        "height": 4,
+        "weight": 19,
+        "description": "gBarboachPokedexText",
+        "pokemon_scale": 581,
+        "pokemon_offset": -3,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "whiscash": {
+        "category_name": "WHISKERS",
+        "height": 9,
+        "weight": 236,
+        "description": "gWhiscashPokedexText",
+        "pokemon_scale": 317,
+        "pokemon_offset": 1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "corphish": {
+        "category_name": "RUFFIAN",
+        "height": 6,
+        "weight": 115,
+        "description": "gCorphishPokedexText",
+        "pokemon_scale": 484,
+        "pokemon_offset": 19,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "crawdaunt": {
+        "category_name": "ROGUE",
+        "height": 11,
+        "weight": 328,
+        "description": "gCrawdauntPokedexText",
+        "pokemon_scale": 365,
+        "pokemon_offset": 9,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "baltoy": {
+        "category_name": "CLAY DOLL",
+        "height": 5,
+        "weight": 215,
+        "description": "gBaltoyPokedexText",
+        "pokemon_scale": 457,
+        "pokemon_offset": 21,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "claydol": {
+        "category_name": "CLAY DOLL",
+        "height": 15,
+        "weight": 1080,
+        "description": "gClaydolPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 3,
+        "trainer_scale": 280,
+        "trainer_offset": 1
+    },
+    "lileep": {
+        "category_name": "SEA LILY",
+        "height": 10,
+        "weight": 238,
+        "description": "gLileepPokedexText",
+        "pokemon_scale": 305,
+        "pokemon_offset": 8,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "cradily": {
+        "category_name": "BARNACLE",
+        "height": 15,
+        "weight": 604,
+        "description": "gCradilyPokedexText",
+        "pokemon_scale": 267,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "anorith": {
+        "category_name": "OLD SHRIMP",
+        "height": 7,
+        "weight": 125,
+        "description": "gAnorithPokedexText",
+        "pokemon_scale": 296,
+        "pokemon_offset": 4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "armaldo": {
+        "category_name": "PLATE",
+        "height": 15,
+        "weight": 682,
+        "description": "gArmaldoPokedexText",
+        "pokemon_scale": 312,
+        "pokemon_offset": 3,
+        "trainer_scale": 271,
+        "trainer_offset": 0
+    },
+    "feebas": {
+        "category_name": "FISH",
+        "height": 6,
+        "weight": 74,
+        "description": "gFeebasPokedexText",
+        "pokemon_scale": 423,
+        "pokemon_offset": -4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "milotic": {
+        "category_name": "TENDER",
+        "height": 62,
+        "weight": 1620,
+        "description": "gMiloticPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 360,
+        "trainer_offset": 7
+    },
+    "castform": {
+        "category_name": "WEATHER",
+        "height": 3,
+        "weight": 8,
+        "description": "gCastformPokedexText",
+        "pokemon_scale": 435,
+        "pokemon_offset": -5,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "kecleon": {
+        "category_name": "COLOR SWAP",
+        "height": 10,
+        "weight": 220,
+        "description": "gKecleonPokedexText",
+        "pokemon_scale": 316,
+        "pokemon_offset": 10,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "shuppet": {
+        "category_name": "PUPPET",
+        "height": 6,
+        "weight": 23,
+        "description": "gShuppetPokedexText",
+        "pokemon_scale": 440,
+        "pokemon_offset": 20,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "banette": {
+        "category_name": "MARIONETTE",
+        "height": 11,
+        "weight": 125,
+        "description": "gBanettePokedexText",
+        "pokemon_scale": 262,
+        "pokemon_offset": 9,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "duskull": {
+        "category_name": "REQUIEM",
+        "height": 8,
+        "weight": 150,
+        "description": "gDuskullPokedexText",
+        "pokemon_scale": 406,
+        "pokemon_offset": -4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "dusclops": {
+        "category_name": "BECKON",
+        "height": 16,
+        "weight": 306,
+        "description": "gDusclopsPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 3,
+        "trainer_scale": 299,
+        "trainer_offset": 1
+    },
+    "tropius": {
+        "category_name": "FRUIT",
+        "height": 20,
+        "weight": 1000,
+        "description": "gTropiusPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 344,
+        "trainer_offset": 7
+    },
+    "chimecho": {
+        "category_name": "WIND CHIME",
+        "height": 6,
+        "weight": 10,
+        "description": "gChimechoPokedexText",
+        "pokemon_scale": 505,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "absol": {
+        "category_name": "DISASTER",
+        "height": 12,
+        "weight": 470,
+        "description": "gAbsolPokedexText",
+        "pokemon_scale": 301,
+        "pokemon_offset": 3,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "wynaut": {
+        "category_name": "BRIGHT",
+        "height": 6,
+        "weight": 140,
+        "description": "gWynautPokedexText",
+        "pokemon_scale": 484,
+        "pokemon_offset": 19,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "snorunt": {
+        "category_name": "SNOW HAT",
+        "height": 7,
+        "weight": 168,
+        "description": "gSnoruntPokedexText",
+        "pokemon_scale": 380,
+        "pokemon_offset": 15,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "glalie": {
+        "category_name": "FACE",
+        "height": 15,
+        "weight": 2565,
+        "description": "gGlaliePokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 3,
+        "trainer_scale": 344,
+        "trainer_offset": 0
+    },
+    "spheal": {
+        "category_name": "CLAP",
+        "height": 8,
+        "weight": 395,
+        "description": "gSphealPokedexText",
+        "pokemon_scale": 315,
+        "pokemon_offset": 16,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "sealeo": {
+        "category_name": "BALL ROLL",
+        "height": 11,
+        "weight": 876,
+        "description": "gSealeoPokedexText",
+        "pokemon_scale": 338,
+        "pokemon_offset": 13,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "walrein": {
+        "category_name": "ICE BREAK",
+        "height": 14,
+        "weight": 1506,
+        "description": "gWalreinPokedexText",
+        "pokemon_scale": 316,
+        "pokemon_offset": 4,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "clamperl": {
+        "category_name": "BIVALVE",
+        "height": 4,
+        "weight": 525,
+        "description": "gClamperlPokedexText",
+        "pokemon_scale": 691,
+        "pokemon_offset": 22,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "huntail": {
+        "category_name": "DEEP SEA",
+        "height": 17,
+        "weight": 270,
+        "description": "gHuntailPokedexText",
+        "pokemon_scale": 307,
+        "pokemon_offset": 1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "gorebyss": {
+        "category_name": "SOUTH SEA",
+        "height": 18,
+        "weight": 226,
+        "description": "gGorebyssPokedexText",
+        "pokemon_scale": 278,
+        "pokemon_offset": 5,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "relicanth": {
+        "category_name": "LONGEVITY",
+        "height": 10,
+        "weight": 234,
+        "description": "gRelicanthPokedexText",
+        "pokemon_scale": 316,
+        "pokemon_offset": 7,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "luvdisc": {
+        "category_name": "RENDEZVOUS",
+        "height": 6,
+        "weight": 87,
+        "description": "gLuvdiscPokedexText",
+        "pokemon_scale": 371,
+        "pokemon_offset": 2,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "bagon": {
+        "category_name": "ROCK HEAD",
+        "height": 6,
+        "weight": 421,
+        "description": "gBagonPokedexText",
+        "pokemon_scale": 448,
+        "pokemon_offset": 18,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "shelgon": {
+        "category_name": "ENDURANCE",
+        "height": 11,
+        "weight": 1105,
+        "description": "gShelgonPokedexText",
+        "pokemon_scale": 311,
+        "pokemon_offset": 12,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "salamence": {
+        "category_name": "DRAGON",
+        "height": 15,
+        "weight": 1026,
+        "description": "gSalamencePokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "beldum": {
+        "category_name": "IRON BALL",
+        "height": 6,
+        "weight": 952,
+        "description": "gBeldumPokedexText",
+        "pokemon_scale": 414,
+        "pokemon_offset": -1,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "metang": {
+        "category_name": "IRON CLAW",
+        "height": 12,
+        "weight": 2025,
+        "description": "gMetangPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 6,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "metagross": {
+        "category_name": "IRON LEG",
+        "height": 16,
+        "weight": 5500,
+        "description": "gMetagrossPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 4,
+        "trainer_scale": 447,
+        "trainer_offset": 9
+    },
+    "regirock": {
+        "category_name": "ROCK PEAK",
+        "height": 17,
+        "weight": 2300,
+        "description": "gRegirockPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 2,
+        "trainer_scale": 309,
+        "trainer_offset": 1
+    },
+    "regice": {
+        "category_name": "ICEBERG",
+        "height": 18,
+        "weight": 1750,
+        "description": "gRegicePokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 301,
+        "trainer_offset": 2
+    },
+    "registeel": {
+        "category_name": "IRON",
+        "height": 19,
+        "weight": 2050,
+        "description": "gRegisteelPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 359,
+        "trainer_offset": 6
+    },
+    "latias": {
+        "category_name": "EON",
+        "height": 14,
+        "weight": 400,
+        "description": "gLatiasPokedexText",
+        "pokemon_scale": 304,
+        "pokemon_offset": 3,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "latios": {
+        "category_name": "EON",
+        "height": 20,
+        "weight": 600,
+        "description": "gLatiosPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 294,
+        "trainer_offset": 3
+    },
+    "kyogre": {
+        "category_name": "SEA BASIN",
+        "height": 45,
+        "weight": 3520,
+        "description": "gKyogrePokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 614,
+        "trainer_offset": 13
+    },
+    "groudon": {
+        "category_name": "CONTINENT",
+        "height": 35,
+        "weight": 9500,
+        "description": "gGroudonPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 515,
+        "trainer_offset": 14
+    },
+    "rayquaza": {
+        "category_name": "SKY HIGH",
+        "height": 70,
+        "weight": 2065,
+        "description": "gRayquazaPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 448,
+        "trainer_offset": 12
+    },
+    "jirachi": {
+        "category_name": "WISH",
+        "height": 3,
+        "weight": 11,
+        "description": "gJirachiPokedexText",
+        "pokemon_scale": 608,
+        "pokemon_offset": -8,
+        "trainer_scale": 256,
+        "trainer_offset": 0
+    },
+    "deoxys": {
+        "category_name": "DNA",
+        "height": 17,
+        "weight": 608,
+        "description": "gDeoxysPokedexText",
+        "pokemon_scale": 256,
+        "pokemon_offset": 0,
+        "trainer_scale": 290,
+        "trainer_offset": 2
+    }
+}
