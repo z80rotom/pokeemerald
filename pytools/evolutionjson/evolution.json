@@ -1,0 +1,1253 @@
+{
+    "bulbasaur": [
+        {
+            "type": "level",
+            "level": 16,
+            "species": "ivysaur"
+        }
+    ],
+    "ivysaur": [
+        {
+            "type": "level",
+            "level": 32,
+            "species": "venusaur"
+        }
+    ],
+    "charmander": [
+        {
+            "type": "level",
+            "level": 16,
+            "species": "charmeleon"
+        }
+    ],
+    "charmeleon": [
+        {
+            "type": "level",
+            "level": 36,
+            "species": "charizard"
+        }
+    ],
+    "squirtle": [
+        {
+            "type": "level",
+            "level": 16,
+            "species": "wartortle"
+        }
+    ],
+    "wartortle": [
+        {
+            "type": "level",
+            "level": 36,
+            "species": "blastoise"
+        }
+    ],
+    "caterpie": [
+        {
+            "type": "level",
+            "level": 7,
+            "species": "metapod"
+        }
+    ],
+    "metapod": [
+        {
+            "type": "level",
+            "level": 10,
+            "species": "butterfree"
+        }
+    ],
+    "weedle": [
+        {
+            "type": "level",
+            "level": 7,
+            "species": "kakuna"
+        }
+    ],
+    "kakuna": [
+        {
+            "type": "level",
+            "level": 10,
+            "species": "beedrill"
+        }
+    ],
+    "pidgey": [
+        {
+            "type": "level",
+            "level": 18,
+            "species": "pidgeotto"
+        }
+    ],
+    "pidgeotto": [
+        {
+            "type": "level",
+            "level": 36,
+            "species": "pidgeot"
+        }
+    ],
+    "rattata": [
+        {
+            "type": "level",
+            "level": 20,
+            "species": "raticate"
+        }
+    ],
+    "spearow": [
+        {
+            "type": "level",
+            "level": 20,
+            "species": "fearow"
+        }
+    ],
+    "ekans": [
+        {
+            "type": "level",
+            "level": 22,
+            "species": "arbok"
+        }
+    ],
+    "pikachu": [
+        {
+            "type": "item",
+            "item": "thunder_stone",
+            "species": "raichu"
+        }
+    ],
+    "sandshrew": [
+        {
+            "type": "level",
+            "level": 22,
+            "species": "sandslash"
+        }
+    ],
+    "nidoran_f": [
+        {
+            "type": "level",
+            "level": 16,
+            "species": "nidorina"
+        }
+    ],
+    "nidorina": [
+        {
+            "type": "item",
+            "item": "moon_stone",
+            "species": "nidoqueen"
+        }
+    ],
+    "nidoran_m": [
+        {
+            "type": "level",
+            "level": 16,
+            "species": "nidorino"
+        }
+    ],
+    "nidorino": [
+        {
+            "type": "item",
+            "item": "moon_stone",
+            "species": "nidoking"
+        }
+    ],
+    "clefairy": [
+        {
+            "type": "item",
+            "item": "moon_stone",
+            "species": "clefable"
+        }
+    ],
+    "vulpix": [
+        {
+            "type": "item",
+            "item": "fire_stone",
+            "species": "ninetales"
+        }
+    ],
+    "jigglypuff": [
+        {
+            "type": "item",
+            "item": "moon_stone",
+            "species": "wigglytuff"
+        }
+    ],
+    "zubat": [
+        {
+            "type": "level",
+            "level": 22,
+            "species": "golbat"
+        }
+    ],
+    "golbat": [
+        {
+            "type": "friendship",
+            "species": "crobat"
+        }
+    ],
+    "oddish": [
+        {
+            "type": "level",
+            "level": 21,
+            "species": "gloom"
+        }
+    ],
+    "gloom": [
+        {
+            "type": "item",
+            "item": "leaf_stone",
+            "species": "vileplume"
+        },
+        {
+            "type": "item",
+            "item": "sun_stone",
+            "species": "bellossom"
+        }
+    ],
+    "paras": [
+        {
+            "type": "level",
+            "level": 24,
+            "species": "parasect"
+        }
+    ],
+    "venonat": [
+        {
+            "type": "level",
+            "level": 31,
+            "species": "venomoth"
+        }
+    ],
+    "diglett": [
+        {
+            "type": "level",
+            "level": 26,
+            "species": "dugtrio"
+        }
+    ],
+    "meowth": [
+        {
+            "type": "level",
+            "level": 28,
+            "species": "persian"
+        }
+    ],
+    "psyduck": [
+        {
+            "type": "level",
+            "level": 33,
+            "species": "golduck"
+        }
+    ],
+    "mankey": [
+        {
+            "type": "level",
+            "level": 28,
+            "species": "primeape"
+        }
+    ],
+    "growlithe": [
+        {
+            "type": "item",
+            "item": "fire_stone",
+            "species": "arcanine"
+        }
+    ],
+    "poliwag": [
+        {
+            "type": "level",
+            "level": 25,
+            "species": "poliwhirl"
+        }
+    ],
+    "poliwhirl": [
+        {
+            "type": "item",
+            "item": "water_stone",
+            "species": "poliwrath"
+        },
+        {
+            "type": "trade_item",
+            "item": "kings_rock",
+            "species": "politoed"
+        }
+    ],
+    "abra": [
+        {
+            "type": "level",
+            "level": 16,
+            "species": "kadabra"
+        }
+    ],
+    "kadabra": [
+        {
+            "type": "trade",
+            "species": "alakazam"
+        }
+    ],
+    "machop": [
+        {
+            "type": "level",
+            "level": 28,
+            "species": "machoke"
+        }
+    ],
+    "machoke": [
+        {
+            "type": "trade",
+            "species": "machamp"
+        }
+    ],
+    "bellsprout": [
+        {
+            "type": "level",
+            "level": 21,
+            "species": "weepinbell"
+        }
+    ],
+    "weepinbell": [
+        {
+            "type": "item",
+            "item": "leaf_stone",
+            "species": "victreebel"
+        }
+    ],
+    "tentacool": [
+        {
+            "type": "level",
+            "level": 30,
+            "species": "tentacruel"
+        }
+    ],
+    "geodude": [
+        {
+            "type": "level",
+            "level": 25,
+            "species": "graveler"
+        }
+    ],
+    "graveler": [
+        {
+            "type": "trade",
+            "species": "golem"
+        }
+    ],
+    "ponyta": [
+        {
+            "type": "level",
+            "level": 40,
+            "species": "rapidash"
+        }
+    ],
+    "slowpoke": [
+        {
+            "type": "level",
+            "level": 37,
+            "species": "slowbro"
+        },
+        {
+            "type": "trade_item",
+            "item": "kings_rock",
+            "species": "slowking"
+        }
+    ],
+    "magnemite": [
+        {
+            "type": "level",
+            "level": 30,
+            "species": "magneton"
+        }
+    ],
+    "doduo": [
+        {
+            "type": "level",
+            "level": 31,
+            "species": "dodrio"
+        }
+    ],
+    "seel": [
+        {
+            "type": "level",
+            "level": 34,
+            "species": "dewgong"
+        }
+    ],
+    "grimer": [
+        {
+            "type": "level",
+            "level": 38,
+            "species": "muk"
+        }
+    ],
+    "shellder": [
+        {
+            "type": "item",
+            "item": "water_stone",
+            "species": "cloyster"
+        }
+    ],
+    "gastly": [
+        {
+            "type": "level",
+            "level": 25,
+            "species": "haunter"
+        }
+    ],
+    "haunter": [
+        {
+            "type": "trade",
+            "species": "gengar"
+        }
+    ],
+    "onix": [
+        {
+            "type": "trade_item",
+            "item": "metal_coat",
+            "species": "steelix"
+        }
+    ],
+    "drowzee": [
+        {
+            "type": "level",
+            "level": 26,
+            "species": "hypno"
+        }
+    ],
+    "krabby": [
+        {
+            "type": "level",
+            "level": 28,
+            "species": "kingler"
+        }
+    ],
+    "voltorb": [
+        {
+            "type": "level",
+            "level": 30,
+            "species": "electrode"
+        }
+    ],
+    "exeggcute": [
+        {
+            "type": "item",
+            "item": "leaf_stone",
+            "species": "exeggutor"
+        }
+    ],
+    "cubone": [
+        {
+            "type": "level",
+            "level": 28,
+            "species": "marowak"
+        }
+    ],
+    "koffing": [
+        {
+            "type": "level",
+            "level": 35,
+            "species": "weezing"
+        }
+    ],
+    "rhyhorn": [
+        {
+            "type": "level",
+            "level": 42,
+            "species": "rhydon"
+        }
+    ],
+    "chansey": [
+        {
+            "type": "friendship",
+            "species": "blissey"
+        }
+    ],
+    "horsea": [
+        {
+            "type": "level",
+            "level": 32,
+            "species": "seadra"
+        }
+    ],
+    "seadra": [
+        {
+            "type": "trade_item",
+            "item": "dragon_scale",
+            "species": "kingdra"
+        }
+    ],
+    "goldeen": [
+        {
+            "type": "level",
+            "level": 33,
+            "species": "seaking"
+        }
+    ],
+    "staryu": [
+        {
+            "type": "item",
+            "item": "water_stone",
+            "species": "starmie"
+        }
+    ],
+    "scyther": [
+        {
+            "type": "trade_item",
+            "item": "metal_coat",
+            "species": "scizor"
+        }
+    ],
+    "magikarp": [
+        {
+            "type": "level",
+            "level": 20,
+            "species": "gyarados"
+        }
+    ],
+    "eevee": [
+        {
+            "type": "item",
+            "item": "thunder_stone",
+            "species": "jolteon"
+        },
+        {
+            "type": "item",
+            "item": "water_stone",
+            "species": "vaporeon"
+        },
+        {
+            "type": "item",
+            "item": "fire_stone",
+            "species": "flareon"
+        },
+        {
+            "type": "friendship_day",
+            "species": "espeon"
+        },
+        {
+            "type": "friendship_night",
+            "species": "umbreon"
+        }
+    ],
+    "porygon": [
+        {
+            "type": "trade_item",
+            "item": "up_grade",
+            "species": "porygon2"
+        }
+    ],
+    "omanyte": [
+        {
+            "type": "level",
+            "level": 40,
+            "species": "omastar"
+        }
+    ],
+    "kabuto": [
+        {
+            "type": "level",
+            "level": 40,
+            "species": "kabutops"
+        }
+    ],
+    "dratini": [
+        {
+            "type": "level",
+            "level": 30,
+            "species": "dragonair"
+        }
+    ],
+    "dragonair": [
+        {
+            "type": "level",
+            "level": 55,
+            "species": "dragonite"
+        }
+    ],
+    "chikorita": [
+        {
+            "type": "level",
+            "level": 16,
+            "species": "bayleef"
+        }
+    ],
+    "bayleef": [
+        {
+            "type": "level",
+            "level": 32,
+            "species": "meganium"
+        }
+    ],
+    "cyndaquil": [
+        {
+            "type": "level",
+            "level": 14,
+            "species": "quilava"
+        }
+    ],
+    "quilava": [
+        {
+            "type": "level",
+            "level": 36,
+            "species": "typhlosion"
+        }
+    ],
+    "totodile": [
+        {
+            "type": "level",
+            "level": 18,
+            "species": "croconaw"
+        }
+    ],
+    "croconaw": [
+        {
+            "type": "level",
+            "level": 30,
+            "species": "feraligatr"
+        }
+    ],
+    "sentret": [
+        {
+            "type": "level",
+            "level": 15,
+            "species": "furret"
+        }
+    ],
+    "hoothoot": [
+        {
+            "type": "level",
+            "level": 20,
+            "species": "noctowl"
+        }
+    ],
+    "ledyba": [
+        {
+            "type": "level",
+            "level": 18,
+            "species": "ledian"
+        }
+    ],
+    "spinarak": [
+        {
+            "type": "level",
+            "level": 22,
+            "species": "ariados"
+        }
+    ],
+    "chinchou": [
+        {
+            "type": "level",
+            "level": 27,
+            "species": "lanturn"
+        }
+    ],
+    "pichu": [
+        {
+            "type": "friendship",
+            "species": "pikachu"
+        }
+    ],
+    "cleffa": [
+        {
+            "type": "friendship",
+            "species": "clefairy"
+        }
+    ],
+    "igglybuff": [
+        {
+            "type": "friendship",
+            "species": "jigglypuff"
+        }
+    ],
+    "togepi": [
+        {
+            "type": "friendship",
+            "species": "togetic"
+        }
+    ],
+    "natu": [
+        {
+            "type": "level",
+            "level": 25,
+            "species": "xatu"
+        }
+    ],
+    "mareep": [
+        {
+            "type": "level",
+            "level": 15,
+            "species": "flaaffy"
+        }
+    ],
+    "flaaffy": [
+        {
+            "type": "level",
+            "level": 30,
+            "species": "ampharos"
+        }
+    ],
+    "marill": [
+        {
+            "type": "level",
+            "level": 18,
+            "species": "azumarill"
+        }
+    ],
+    "hoppip": [
+        {
+            "type": "level",
+            "level": 18,
+            "species": "skiploom"
+        }
+    ],
+    "skiploom": [
+        {
+            "type": "level",
+            "level": 27,
+            "species": "jumpluff"
+        }
+    ],
+    "sunkern": [
+        {
+            "type": "item",
+            "item": "sun_stone",
+            "species": "sunflora"
+        }
+    ],
+    "wooper": [
+        {
+            "type": "level",
+            "level": 20,
+            "species": "quagsire"
+        }
+    ],
+    "pineco": [
+        {
+            "type": "level",
+            "level": 31,
+            "species": "forretress"
+        }
+    ],
+    "snubbull": [
+        {
+            "type": "level",
+            "level": 23,
+            "species": "granbull"
+        }
+    ],
+    "teddiursa": [
+        {
+            "type": "level",
+            "level": 30,
+            "species": "ursaring"
+        }
+    ],
+    "slugma": [
+        {
+            "type": "level",
+            "level": 38,
+            "species": "magcargo"
+        }
+    ],
+    "swinub": [
+        {
+            "type": "level",
+            "level": 33,
+            "species": "piloswine"
+        }
+    ],
+    "remoraid": [
+        {
+            "type": "level",
+            "level": 25,
+            "species": "octillery"
+        }
+    ],
+    "houndour": [
+        {
+            "type": "level",
+            "level": 24,
+            "species": "houndoom"
+        }
+    ],
+    "phanpy": [
+        {
+            "type": "level",
+            "level": 25,
+            "species": "donphan"
+        }
+    ],
+    "tyrogue": [
+        {
+            "type": "level_atk_lt_def",
+            "level": 20,
+            "species": "hitmonchan"
+        },
+        {
+            "type": "level_atk_gt_def",
+            "level": 20,
+            "species": "hitmonlee"
+        },
+        {
+            "type": "level_atk_eq_def",
+            "level": 20,
+            "species": "hitmontop"
+        }
+    ],
+    "smoochum": [
+        {
+            "type": "level",
+            "level": 30,
+            "species": "jynx"
+        }
+    ],
+    "elekid": [
+        {
+            "type": "level",
+            "level": 30,
+            "species": "electabuzz"
+        }
+    ],
+    "magby": [
+        {
+            "type": "level",
+            "level": 30,
+            "species": "magmar"
+        }
+    ],
+    "larvitar": [
+        {
+            "type": "level",
+            "level": 30,
+            "species": "pupitar"
+        }
+    ],
+    "pupitar": [
+        {
+            "type": "level",
+            "level": 55,
+            "species": "tyranitar"
+        }
+    ],
+    "treecko": [
+        {
+            "type": "level",
+            "level": 16,
+            "species": "grovyle"
+        }
+    ],
+    "grovyle": [
+        {
+            "type": "level",
+            "level": 36,
+            "species": "sceptile"
+        }
+    ],
+    "torchic": [
+        {
+            "type": "level",
+            "level": 16,
+            "species": "combusken"
+        }
+    ],
+    "combusken": [
+        {
+            "type": "level",
+            "level": 36,
+            "species": "blaziken"
+        }
+    ],
+    "mudkip": [
+        {
+            "type": "level",
+            "level": 16,
+            "species": "marshtomp"
+        }
+    ],
+    "marshtomp": [
+        {
+            "type": "level",
+            "level": 36,
+            "species": "swampert"
+        }
+    ],
+    "poochyena": [
+        {
+            "type": "level",
+            "level": 18,
+            "species": "mightyena"
+        }
+    ],
+    "zigzagoon": [
+        {
+            "type": "level",
+            "level": 20,
+            "species": "linoone"
+        }
+    ],
+    "wurmple": [
+        {
+            "type": "level_silcoon",
+            "level": 7,
+            "species": "silcoon"
+        },
+        {
+            "type": "level_cascoon",
+            "level": 7,
+            "species": "cascoon"
+        }
+    ],
+    "silcoon": [
+        {
+            "type": "level",
+            "level": 10,
+            "species": "beautifly"
+        }
+    ],
+    "cascoon": [
+        {
+            "type": "level",
+            "level": 10,
+            "species": "dustox"
+        }
+    ],
+    "lotad": [
+        {
+            "type": "level",
+            "level": 14,
+            "species": "lombre"
+        }
+    ],
+    "lombre": [
+        {
+            "type": "item",
+            "item": "water_stone",
+            "species": "ludicolo"
+        }
+    ],
+    "seedot": [
+        {
+            "type": "level",
+            "level": 14,
+            "species": "nuzleaf"
+        }
+    ],
+    "nuzleaf": [
+        {
+            "type": "item",
+            "item": "leaf_stone",
+            "species": "shiftry"
+        }
+    ],
+    "nincada": [
+        {
+            "type": "level_ninjask",
+            "level": 20,
+            "species": "ninjask"
+        },
+        {
+            "type": "level_shedinja",
+            "level": 20,
+            "species": "shedinja"
+        }
+    ],
+    "taillow": [
+        {
+            "type": "level",
+            "level": 22,
+            "species": "swellow"
+        }
+    ],
+    "shroomish": [
+        {
+            "type": "level",
+            "level": 23,
+            "species": "breloom"
+        }
+    ],
+    "wingull": [
+        {
+            "type": "level",
+            "level": 25,
+            "species": "pelipper"
+        }
+    ],
+    "surskit": [
+        {
+            "type": "level",
+            "level": 22,
+            "species": "masquerain"
+        }
+    ],
+    "wailmer": [
+        {
+            "type": "level",
+            "level": 40,
+            "species": "wailord"
+        }
+    ],
+    "skitty": [
+        {
+            "type": "item",
+            "item": "moon_stone",
+            "species": "delcatty"
+        }
+    ],
+    "baltoy": [
+        {
+            "type": "level",
+            "level": 36,
+            "species": "claydol"
+        }
+    ],
+    "barboach": [
+        {
+            "type": "level",
+            "level": 30,
+            "species": "whiscash"
+        }
+    ],
+    "corphish": [
+        {
+            "type": "level",
+            "level": 30,
+            "species": "crawdaunt"
+        }
+    ],
+    "feebas": [
+        {
+            "type": "beauty",
+            "beauty": 170,
+            "species": "milotic"
+        }
+    ],
+    "carvanha": [
+        {
+            "type": "level",
+            "level": 30,
+            "species": "sharpedo"
+        }
+    ],
+    "trapinch": [
+        {
+            "type": "level",
+            "level": 35,
+            "species": "vibrava"
+        }
+    ],
+    "vibrava": [
+        {
+            "type": "level",
+            "level": 45,
+            "species": "flygon"
+        }
+    ],
+    "makuhita": [
+        {
+            "type": "level",
+            "level": 24,
+            "species": "hariyama"
+        }
+    ],
+    "electrike": [
+        {
+            "type": "level",
+            "level": 26,
+            "species": "manectric"
+        }
+    ],
+    "numel": [
+        {
+            "type": "level",
+            "level": 33,
+            "species": "camerupt"
+        }
+    ],
+    "spheal": [
+        {
+            "type": "level",
+            "level": 32,
+            "species": "sealeo"
+        }
+    ],
+    "sealeo": [
+        {
+            "type": "level",
+            "level": 44,
+            "species": "walrein"
+        }
+    ],
+    "cacnea": [
+        {
+            "type": "level",
+            "level": 32,
+            "species": "cacturne"
+        }
+    ],
+    "snorunt": [
+        {
+            "type": "level",
+            "level": 42,
+            "species": "glalie"
+        }
+    ],
+    "azurill": [
+        {
+            "type": "friendship",
+            "species": "marill"
+        }
+    ],
+    "spoink": [
+        {
+            "type": "level",
+            "level": 32,
+            "species": "grumpig"
+        }
+    ],
+    "meditite": [
+        {
+            "type": "level",
+            "level": 37,
+            "species": "medicham"
+        }
+    ],
+    "swablu": [
+        {
+            "type": "level",
+            "level": 35,
+            "species": "altaria"
+        }
+    ],
+    "wynaut": [
+        {
+            "type": "level",
+            "level": 15,
+            "species": "wobbuffet"
+        }
+    ],
+    "duskull": [
+        {
+            "type": "level",
+            "level": 37,
+            "species": "dusclops"
+        }
+    ],
+    "slakoth": [
+        {
+            "type": "level",
+            "level": 18,
+            "species": "vigoroth"
+        }
+    ],
+    "vigoroth": [
+        {
+            "type": "level",
+            "level": 36,
+            "species": "slaking"
+        }
+    ],
+    "gulpin": [
+        {
+            "type": "level",
+            "level": 26,
+            "species": "swalot"
+        }
+    ],
+    "whismur": [
+        {
+            "type": "level",
+            "level": 20,
+            "species": "loudred"
+        }
+    ],
+    "loudred": [
+        {
+            "type": "level",
+            "level": 40,
+            "species": "exploud"
+        }
+    ],
+    "clamperl": [
+        {
+            "type": "trade_item",
+            "item": "deep_sea_tooth",
+            "species": "huntail"
+        },
+        {
+            "type": "trade_item",
+            "item": "deep_sea_scale",
+            "species": "gorebyss"
+        }
+    ],
+    "shuppet": [
+        {
+            "type": "level",
+            "level": 37,
+            "species": "banette"
+        }
+    ],
+    "aron": [
+        {
+            "type": "level",
+            "level": 32,
+            "species": "lairon"
+        }
+    ],
+    "lairon": [
+        {
+            "type": "level",
+            "level": 42,
+            "species": "aggron"
+        }
+    ],
+    "lileep": [
+        {
+            "type": "level",
+            "level": 40,
+            "species": "cradily"
+        }
+    ],
+    "anorith": [
+        {
+            "type": "level",
+            "level": 40,
+            "species": "armaldo"
+        }
+    ],
+    "ralts": [
+        {
+            "type": "level",
+            "level": 20,
+            "species": "kirlia"
+        }
+    ],
+    "kirlia": [
+        {
+            "type": "level",
+            "level": 30,
+            "species": "gardevoir"
+        }
+    ],
+    "bagon": [
+        {
+            "type": "level",
+            "level": 30,
+            "species": "shelgon"
+        }
+    ],
+    "shelgon": [
+        {
+            "type": "level",
+            "level": 50,
+            "species": "salamence"
+        }
+    ],
+    "beldum": [
+        {
+            "type": "level",
+            "level": 20,
+            "species": "metang"
+        }
+    ],
+    "metang": [
+        {
+            "type": "level",
+            "level": 45,
+            "species": "metagross"
+        }
+    ]
+}
