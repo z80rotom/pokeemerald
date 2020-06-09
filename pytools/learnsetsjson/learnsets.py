@@ -91,7 +91,7 @@ def build_entry(species_name, level_up_learnset):
     declare_array = "{}{}{}".format(SCAN_ARRAY_LINE_START, array_name, SCAN_ARRAY_LINE_END)
     lines.append(declare_array)
     for move in level_up_learnset:
-        level = move["level"]
+        level = str(move["level"]).rjust(2)
         name = move["name"]
         name = "MOVE_{}".format(name.upper())
         line = "\t{}{}, {}{}".format(SCAN_MOVE_START, level, name, SCAN_MOVE_END)
