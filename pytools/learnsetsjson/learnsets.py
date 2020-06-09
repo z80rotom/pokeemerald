@@ -127,30 +127,17 @@ def build_pointers(in_json):
         '\n'.join(pointers)
     ))
 
-def main():
-    argparser = ArgumentParser()
-    argparser.add_argument('IN_FILE')
-    argparser.add_argument('OUT_FILE')
-    argparser.add_argument('PTR_FILE')
-    vargs = argparser.parse_args()
-
+def build_learnsets(learnsets_json_fpath,
+                    learnsets_h_fpath,
+                    learnset_pointers_h_fpath):
     in_json = {}
-    with open(vargs.IN_FILE, "r") as fobj:
+    with open(learnsets_json_fpath, "r") as fobj:
         in_json = json.load(fobj)
     
     level_up_learnsets_h = from_json(in_json)
-    with open(vargs.OUT_FILE, "w") as fobj:
+    with open(learnsets_h_fpath, "w") as fobj:
         fobj.write(level_up_learnsets_h)
 
     level_up_learnset_pointers_h = build_pointers(in_json)
-    with open(vargs.PTR_FILE, "w") as fobj:
+    with open(learnset_pointers_h_fpath, "w") as fobj:
         fobj.write(level_up_learnset_pointers_h)
-
-    # out_json = {}
-    # with open(vargs.IN_FILE, "r") as fobj:
-    #     out_json = to_json(fobj)
-    # with open(vargs.OUT_FILE, "w") as fobj:
-    #     json.dump(out_json, fobj, indent=4)
-
-if __name__ == "__main__":
-    main()
