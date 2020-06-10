@@ -248,23 +248,16 @@ def from_json(in_json):
         '\n'.join(evolutions)
     )
 
-def main():
-    argparser = ArgumentParser()
-    argparser.add_argument('IN_FILE')
-    argparser.add_argument('OUT_FILE')
-    vargs = argparser.parse_args()
-
+def build_evolution(evolution_json_fpath,
+                    evolution_h_fpath):
     in_json = {}
-    with open(vargs.IN_FILE, "r") as fobj:
+    with open(evolution_json_fpath, "r") as fobj:
         in_json = json.load(fobj)
     evolution_h = from_json(in_json)
-    with open(vargs.OUT_FILE, "w") as fobj:
+    with open(evolution_h_fpath, "w") as fobj:
         fobj.write(evolution_h)
     # out_json = {}
     # with open(vargs.IN_FILE, "r") as fobj:
     #     out_json = to_json(fobj)
     # with open(vargs.OUT_FILE, "w") as fobj:
     #     json.dump(out_json, fobj, indent=4)
-
-if __name__ == "__main__":
-    main()
