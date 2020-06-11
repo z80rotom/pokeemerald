@@ -1681,7 +1681,7 @@ static const u16 sStarmieLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sMrmimeLevelUpLearnset[] = {
+static const u16 sMrMimeLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_BARRIER),
     LEVEL_UP_MOVE( 5, MOVE_CONFUSION),
     LEVEL_UP_MOVE( 9, MOVE_SUBSTITUTE),
@@ -3444,127 +3444,127 @@ static const u16 sCelebiLevelUpLearnset[] = {
     LEVEL_UP_END
 };
 
-static const u16 sSpecies252LevelUpLearnset[] = {
+static const u16 sOldUnownBLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies253LevelUpLearnset[] = {
+static const u16 sOldUnownCLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies254LevelUpLearnset[] = {
+static const u16 sOldUnownDLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies255LevelUpLearnset[] = {
+static const u16 sOldUnownELevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies256LevelUpLearnset[] = {
+static const u16 sOldUnownFLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies257LevelUpLearnset[] = {
+static const u16 sOldUnownGLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies258LevelUpLearnset[] = {
+static const u16 sOldUnownHLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies259LevelUpLearnset[] = {
+static const u16 sOldUnownILevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies260LevelUpLearnset[] = {
+static const u16 sOldUnownJLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies261LevelUpLearnset[] = {
+static const u16 sOldUnownKLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies262LevelUpLearnset[] = {
+static const u16 sOldUnownLLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies263LevelUpLearnset[] = {
+static const u16 sOldUnownMLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies264LevelUpLearnset[] = {
+static const u16 sOldUnownNLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies265LevelUpLearnset[] = {
+static const u16 sOldUnownOLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies266LevelUpLearnset[] = {
+static const u16 sOldUnownPLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies267LevelUpLearnset[] = {
+static const u16 sOldUnownQLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies268LevelUpLearnset[] = {
+static const u16 sOldUnownRLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies269LevelUpLearnset[] = {
+static const u16 sOldUnownSLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies270LevelUpLearnset[] = {
+static const u16 sOldUnownTLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies271LevelUpLearnset[] = {
+static const u16 sOldUnownULevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies272LevelUpLearnset[] = {
+static const u16 sOldUnownVLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies273LevelUpLearnset[] = {
+static const u16 sOldUnownWLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies274LevelUpLearnset[] = {
+static const u16 sOldUnownXLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies275LevelUpLearnset[] = {
+static const u16 sOldUnownYLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
 
-static const u16 sSpecies276LevelUpLearnset[] = {
+static const u16 sOldUnownZLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_END
 };
