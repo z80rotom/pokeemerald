@@ -40,6 +40,8 @@
 #include "window.h"
 #include "mystery_gift.h"
 
+#include "starter_choose_menu.h"
+
 /*
  * Main menu state machine
  * -----------------------
@@ -464,7 +466,7 @@ static const struct MenuAction sMenuActions_Gender[] = {
 };
 
 static const u8 *const gMalePresetNames[] = {
-    gText_DefaultNameStu,
+    gText_DefaultNameDelta,
     gText_DefaultNameMilton,
     gText_DefaultNameTom,
     gText_DefaultNameKenny,
@@ -611,7 +613,9 @@ static u32 InitMainMenu(bool8 returningFromOptionsMenu)
     SetGpuReg(REG_OFFSET_DISPCNT, DISPCNT_WIN0_ON | DISPCNT_OBJ_ON | DISPCNT_OBJ_1D_MAP);
     ShowBg(0);
     HideBg(1);
-    CreateTask(Task_MainMenuCheckSaveFile, 0);
+    // NOTE: For testing starter choice menu
+    NewGameBirchSpeech_SetDefaultPlayerName(0);
+    CreateTask(Task_NewGameBirchSpeech_Cleanup, 0);
 
     return 0;
 }
@@ -1062,7 +1066,9 @@ static void Task_HandleMainMenuAPressed(u8 taskId)
             default:
                 gPlttBufferUnfaded[0] = RGB_BLACK;
                 gPlttBufferFaded[0] = RGB_BLACK;
-                gTasks[taskId].func = Task_NewGameBirchSpeech_Init;
+                // Task_NewGameBirchSpeech_Init
+                NewGameBirchSpeech_SetDefaultPlayerName(0);
+                gTasks[taskId].func = Task_NewGameBirchSpeech_Cleanup;
                 break;
             case ACTION_CONTINUE:
                 gPlttBufferUnfaded[0] = RGB_BLACK;
@@ -1788,7 +1794,7 @@ static void Task_NewGameBirchSpeech_Cleanup(u8 taskId)
         FreeAllWindowBuffers();
         FreeAndDestroyMonPicSprite(gTasks[taskId].tLotadSpriteId);
         ResetAllPicSprites();
-        SetMainCallback2(CB2_NewGame);
+        SetMainCallback2(CB2_InitStarterChooseMenu);
         DestroyTask(taskId);
     }
 }
